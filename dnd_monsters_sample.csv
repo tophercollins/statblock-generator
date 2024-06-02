@@ -1,0 +1,809 @@
+,Name,Size,Type,Align.,AC,HP,Speeds,STR,DEX,CON,INT,WIS,CHA,Sav. Throws,Skills,Senses,Languages,CR
+0,Aarakocra,Medium,Humanoid,NG,12,13,"20, 50 fly",10,14,10,11,12,11,,Perception,Normal,Auran,0.25
+1,Aboleth,Large,Aberration,LE,17,135,"10, swim 40",21,9,15,18,15,18,"CON, INT, WIS","History, Perception",Darkvision 120,"Deep Speech, Telepathy 120",10.00
+2,Albino Dwarf Warrior,Medium,Humanoid (Dwarf),ANY,13,30,25,13,13,17,12,14,11,,"Perception, Stealth, Survival",Darkvision 60,"Common, Dwarvish",0.25
+3,Aldani (Lobsterfolk),Medium,Monstrosity,LN,14,49,"20, swim 30",13,8,12,10,14,10,,"Perception, Survival",Darkvision 60,Common,1.00
+4,Allip,Medium,Undead,NE,13,40,fly 40,6,17,10,17,15,16,"INT, WIS","Perception, Stealth",Darkvision 60,Any,5.00
+5,Almiraj,Small,Beast,U,13,3,50,2,16,10,2,14,10,,"Perception, Stealth","Darkvision 30, tremorsense 60",,0.00
+6,Ambush Drake,Medium,Dragon,U,13,22,30,13,15,14,4,11,6,,"Perception, Stealth",Darkvision 60,Draconic,0.50
+7,"Angel, Deva",Medium,Celestial,LG,17,136,"30, 90 fly",18,18,18,17,20,20,"WIS, CHA","Insight, Perception",Darkvision 120,"All, Telepathy 120",10.00
+8,"Angel, Planetar",Large,Celestial,LG,19,200,"40, 120 fly",24,20,24,19,22,25,"CON, WIS, CHA",Perception,Truesight 120,"All, telepathy 120",16.00
+9,"Angel, Solar",Large,Celestial,LG,21,243,"50, 150 fly",26,22,26,25,25,30,"INT, WIS, CHA",Perception,Truesight 120,"All, telepathy 120",21.00
+10,"Animated Object, Armor",Medium,Construct,U,18,33,25,14,11,13,1,3,1,,,Blindsight 60,,1.00
+11,"Animated Object, Broom of Attack",Small,Construct,U,15,17,50 fly,10,17,10,1,5,1,,,Blindsight 30,,0.25
+12,"Animated Object, Flying Sword",Small,Construct,U,17,17,50 fly,12,15,11,1,5,1,DEX,,Blindsight 60,,0.25
+13,"Animated Object, Rug of Smothering",Large,Construct,U,12,33,10,17,14,10,1,3,1,,,Blindsight 60,,2.00
+14,"Animated Object, Table",Large,Construct,U,15,39,40,18,8,13,1,3,1,,,Blindsight 60,,2.00
+15,Ankheg,Large,Monstrosity,U,14,39,"30, 10 burrow",17,11,13,1,13,6,,,"Darkvision 60, tremorsense 60",,2.00
+16,Assassin Vine,Large,Plant,U,13,85,"5, climb 5",18,10,16,1,10,1,,,Blindsight 30,,3.00
+17,"Assorted Beast, Aurochs",Large,Beast,U,11,38,50,20,10,19,2,12,5,,,Normal,,2.00
+18,"Assorted Beast, Cattle",Large,Beast,U,10,15,30,18,10,14,2,10,4,,,Normal,,0.25
+19,"Assorted Beast, Dolphin",Medium,Beast,U,12,11,swim 60,14,13,13,6,12,7,,Perception,Blindsight 60,,0.13
+20,"Assorted Beast, Swarm of Rot Grubs",Medium,Beast ,U,8,22,"5, climb 5",2,7,10,1,2,1,,,Blindsight 10,,0.50
+21,Astral Dreadnought,Gargantuan,Monstrosity,U,20,297,"15, fly 80",28,7,25,5,14,18,"DEX, WIS",Perception,Darkvision 120,,21.00
+22,Atropal,Huge,Undead (Titan),NE,7,225,fly 50,19,5,22,25,19,24,"CON, WIS",,"Darkvision 120, truesight 120",Celestial,13.00
+23,Avatar of Death,Medium,Undead,NE,20,VARIES,"60, fly 60",16,16,16,16,16,16,,,"Darkvision 60, truesight 60",Creator,VARIES
+24,Awakened Zurkhwood,Huge,Plant,U,13,59,20,19,6,15,10,10,7,,,Normal,Any,2.00
+25,Azer,Medium,Elemental,LN,17,39,30,17,12,15,12,13,10,CON,,Normal,Ignan,2.00
+26,Baba Lysaga's Creeping Hut,Gargantuan,Construct,U,16,263,30,26,7,20,1,3,3,"CON, WIS, CHA",,Blindsight 120,,11.00
+27,Balhannoth,Large,Aberration,CE,17,114,"25, climb 25",17,8,18,6,15,8,CON,Perception,Blindsight 500,"Deep Speech, telepathy 1 mile",11.00
+28,Banderhobb,Large,Monstrosity,NE,15,84,30,20,12,20,11,14,8,,"Athletics, Stealth",Darkvision 120,"Common, Any",5.00
+29,Banshee,Medium,Undead,CE,12,58,40 fly,1,14,10,12,11,17,"WIS, CHA",,Darkvision 60,"Common, Elvish",4.00
+30,Barghest,Large,Fiend (Shapechanger),NE,17,90,60,19,15,14,13,12,14,,"Deception, Intimidation, Perception, Stealth","Blindsight 60, darkvision 60","Abyssal, Common, Goblin, Infernal, telepathy 60",4.00
+31,Basilisk,Medium,Monstrosity,U,15,52,30,16,8,15,2,8,7,"STR, CON, WIS, CHA","Deception, Insight, Perception",Darkvision 120,"Infernal, telepathy 120",3.00
+32,Behir,Huge,Monstrosity,NE,17,168,"50, climb 40",23,16,18,7,16,12,,"Perception, Stealth",Darkvision 90,Draconic,11.00
+33,Beholder,Large,Aberration,LE,18,180,30,10,14,18,17,15,17,"STR, CON, WIS",,Darkvision 120,"Infernal, telepathy 120",13.00
+34,"Beholder, Death Kiss",Large,Aberration,NE,16,161,fly 30,18,14,18,10,12,10,"CON, WIS",Perception,Darkvision 120,"Deep Speech, Undercommon",10.00
+35,"Beholder, Death Tyrant",Large,Undead,LE,19,187,"50, 40 climb",10,14,14,19,15,19,,"Perception, Stealth",Darkvision 90,Draconic,14.00
+36,"Beholder, Gauth",Medium,Aberration,LE,15,67,fly 20,10,14,16,15,15,13,"INT, WIS, CHA",Perception,Darkvision 120,"Deep Speech, Undercommon",6.00
+37,"Beholder, Gazer",Tiny,Aberration,NE,13,13,fly 30,3,17,14,3,10,7,WIS,"Perception, Stealth",Darkvision 60,,0.50
+38,"Beholder, Spectator",Medium,Aberration,LN,14,39,20 fly,8,14,14,13,14,11,"INT, WIS, CHA",Perception,Darkvision 120,"Deep Speech, Undercommon",3.00
+39,Berbalang,Medium,Aberration,NE,14,38,"30, fly 40",9,16,9,17,11,10,,"Arcana, History, Insight, Perception, Religion",Truesight 120,All,2.00
+40,Black Earth Guard,Medium,Humanoid (Human),NE,18,39,30,17,11,14,10,10,9,,"Intimidation, Perception",Normal,Common,2.00
+41,Black Earth Priest,Medium,Humanoid (Human),NE,17,45,30,15,11,14,12,10,16,,"Intimidation, Religion, Persuasion",Normal,"Common, Terran",3.00
+42,"Black Earth, Burrowshark",Medium,Humanoid (Human),NE,18,82,30,18,12,16,10,11,13,,"Animal Handling, Athletics, Intimidation, Perception",Normal,Common,4.00
+43,"Black Earth, Sacred Stone Monk",Medium,Humanoid (Human),LE,14,22,40,13,15,12,10,14,9,,"Acrobatics, Athletics, Perception",Tremorsense 10,Common,0.50
+44,"Black Earth, Stonemelder",Medium,Humanoid (Human),NE,17,75,30,15,10,16,12,11,17,,"Intimidation, Perception",Tremorsense 30,"Common, Terran",4.00
+45,"Blight, Needle",Medium,Plant,NE,12,11,30,12,12,13,4,8,3,,,Blindsight 60,Common,0.25
+46,"Blight, Tree",Huge,Plant,NE,15,149,30,23,10,20,6,10,3,,,Blindsight 60,"Common, Druidic",7.00
+47,"Blight, Twig",Small,Plant,NE,13,4,"20, ",6,13,12,4,8,3,,Stealth,Blindsight 60,Common,0.13
+48,"Blight, Vine",Medium,Plant,NE,12,26,30,15,8,14,5,10,3,,,Blindsight 60,Common,0.50
+49,Bodak,Medium,Undead,CE,15,58,30,15,16,15,7,12,12,,"Perception, Stealth",Darkvision 120,"Abyssal, Any",6.00
+50,Boggle,Small,Fey,CN,14,18,"30, climb 30",8,18,13,6,12,7,,"Perception, Sleight of Hand, Stealth",Darkvision 60,Sylvan,0.13
+51,Boneclaw,Large,Undead,CE,16,127,40,19,16,15,13,15,9,"DEX, CON, WIS","Perception, Stealth",Darkvision 60,"Common, Any",12.00
+52,Bugbear,Medium,Humanoid,CE,16,27,30,15,14,13,8,11,9,,"Stealth, Survival",Darkvision 60,"Common, Goblin",1.00
+53,Bugbear Chief,Medium,Humanoid,CE,17,65,30,17,14,14,11,12,11,,"Intimidation, Stealth, Survival",Darkvision 60,"Common, Goblin",3.00
+54,Bulette,Large,Monstrosity,U,17,94,"40, 40 burrow",19,11,21,2,10,5,,Perception,"Darkvision 60, tremorsense 60",,5.00
+55,Bullywug,Medium,Humanoid,NE,15,11,"20, swim 40",12,12,13,7,10,7,,Stealth,Normal,Own,0.25
+56,Cadaver Collector,Large,Construct,LE,17,189,30,21,14,20,5,11,8,,,Darkvision 60,All,14.00
+57,Cambion,Medium,Fiend,ANY EVIL,19,82,"30, fly 60",18,18,16,14,12,16,"STR, CON, INT, CHA","Deception, Intimidation, Perception, Stealth",Darkvision 60,"Abyssal, Common, Infernal",5.00
+58,Carrion Crawler,Large,Monstrosity,U,13,51,"30, 30 climb",14,13,16,1,12,5,,Perception,Darkvision 60,,2.00
+59,Catoblepas,Large,Monstrosity,U,14,84,30,19,12,21,3,4,8,,,Darkvision 60,,5.00
+60,Cave Fisher,Medium,Monstrosity,U,16,58,"20, climb 20",16,13,14,3,10,3,,"Perception, Stealth",Blindsight 60,,3.00
+61,Centaur,Large,Monstrosity,NG,12,45,50,18,14,14,9,13,11,,"Athletics, Perception, Survival",Normal,"Elvish, Sylvan",2.00
+62,Centaur Mummy,Large,Undead,LE,13,85,30,20,12,16,5,14,12,WIS,,Darkvision 60,"Common, Sylvan",6.00
+63,Chimera,Large,Monstrosity,CE,14,114,"30, fly 60",19,11,19,3,14,10,,Perception,Darkvision 60,Draconic,6.00
+64,Chitine,Small,Monstrosity,CE,14,18,"30, climb 30",10,14,12,10,10,7,,"Athletics, Stealth",Darkvision 60,Undercommon,0.50
+65,"Chitine, Choldrith",Medium,Monstrosity,CE,15,66,"30, climb 30",12,16,12,11,14,10,,"Athletics, Religion, Stealth",Darkvision 60,Undercommon,3.00
+66,Choker,Small,Aberration,CE,16,13,30,16,14,13,4,12,7,,Stealth,Darkvision 60,Deep Speech,1.00
+67,Chuul,Large,Aberration,CE,16,93,"30, 30 swim",19,10,16,5,11,5,,Perception,Darkvision 60,Deep Speech,4.00
+68,Chwinga,Tiny,Elemental,N,15,5,"20, climb 20, swim 20",1,20,10,14,16,16,,"Acrobatics, Perception, Stealth",Blindsight 60,,0.00
+69,Cloaker,Large,Aberration,CN,14,78,"10, fly 40",17,15,12,13,12,14,,Stealth,Darkvision 60,"Deep Speech, Undercommon",8.00
+70,"Clockwork, Bronze Scout",Medium,Construct,U,13,18,"30, burrow 30",10,16,11,3,14,1,,"Perception, Stealth",Darkvision 60,Creator,1.00
+71,"Clockwork, Iron Cobra",Medium,Construct,U,13,45,30,12,16,14,3,10,1,,Stealth,Darkvision 60,Creator,4.00
+72,"Clockwork, Oaken Bolter",Medium,Construct,U,16,58,30,12,18,15,3,10,1,,,Darkvision 60,Creator,5.00
+73,"Clockwork, Stone Defender",Medium,Construct,U,16,52,30,19,10,17,3,10,1,,,Darkvision 60,Creator,4.00
+74,Cockatrice,Small,Monstrosity,U,11,27,"20, fly 40",6,12,12,2,13,5,,,Darkvision 60,,0.50
+75,Corpse Flower,Large,Plant,CE,12,127,"20, climb 20",14,14,16,7,15,3,,,Blindsight 120,,8.00
+76,Couatl,Medium,Celestial,LG,19,97,"30, 90 fly",16,20,17,18,20,18,"CON, WIS, CHA",,Truesight 120,"All, telepathy 120",4.00
+77,Crag Cat,Large,Beast,U,13,34,40,16,17,16,4,14,8,,"Perception, Stealth",Darkvision 60,,1.00
+78,Cranium Rat,Tiny,Beast,LE,12,2,30,2,14,10,4,11,8,,,"Darkvision 30, tremorsense 60",Telepathy 30,0.00
+79,"Cranium Rat, Swarm",Medium,Beast ,LE,12,36,30,9,14,10,15,11,14,,,"Darkvision 30, tremorsense 60",Telepathy 30,5.00
+80,Crawling Claw,Tiny,Undead,NE,12,2,"20, climb 20",13,14,11,5,10,4,,,Blindsight 30,Common,0.00
+81,Crushing Wave Priest,Medium,Humanoid (Human),NE,13,52,30,15,11,14,10,11,16,,"Deception, Religion, Stealth",Normal,"Aquan, COmmon",2.00
+82,Crushing Wave Reaver,Medium,Humanoid (Human),NE,14,22,30,15,14,13,10,11,8,,"Athletics, Stealth",Normal,Common,0.50
+83,"Crushing Wave, Dark Tide Knight",Medium,Humanoid (Human),LE,13,58,30,17,16,14,10,11,11,,"Athletics, Stealth",Normal,Common,3.00
+84,"Crushing Wave, Fathomer",Medium,Humanoid (Human),NE,10,52,30,14,11,14,11,11,15,,"Arcana, Perception, Stealth",Normal,"Aquan, Common",2.00
+85,"Crushing Wave, One-Eyed Shiver",Medium,Humanoid (Human),CE,12,49,30,10,14,12,13,13,17,,"Arcana, Perception, Intimidation",Normal,Common,3.00
+86,Cyclops,Huge,Giant,CN,14,138,30,22,11,20,8,6,10,,,Normal,Giant,6.00
+87,Darkling,Small,Fey,CN,14,13,30,9,16,12,10,12,10,,"Acrobatics, Deception, Perception, Stealth","Blindsight 30, darkvision 120","Elvish, Sylvan",0.50
+88,Darkling Elder,Medium,Fey,CN,15,27,30,13,17,12,10,14,13,,"Acrobatics, Deception, Perception, Stealth","Blindsight 30, darkvision 120","Elvish, Sylvan",2.00
+89,Darkmantle,Small,Monstrosity,U,11,22,"10, fly 30",16,12,13,2,10,5,,Stealth,Blindsight 60,,0.50
+90,Death Knight,Medium,Undead,CE,20,180,30,20,11,20,12,16,18,"DEX, WIS, CHA",,Darkvision 120,"Abyssal, Common",17.00
+91,Deathlock,Medium,Undead,NE,12,36,30,11,15,10,14,12,16,"INT, CHA","Arcana, History",Darkvision 60,Any,4.00
+92,Deathlock Mastermind,Medium,Undead,NE,13,110,30,11,16,12,15,12,17,"INT, CHA","Arcana, History, Perception",Darkvision 120,Any,8.00
+93,Deathlock Wight,Medium,Undead,NE,12,37,30,11,14,16,12,14,16,WIS,"Arcana, Perception",Darkvision 60,Any,3.00
+94,Decapus,Large,Monstrosity,U,14,75,"15, climb 30",15,14,14,4,10,7,,"Athletics, Perception, Stealth",Darkvision 60,,4.00
+95,Deep Scion,Medium,Humanoid (Shapechanger),NE,11,67,"30, swim 40",18,13,16,10,12,14,"WIS, CHA","Deception, Insight, Sleight of Hand, Stealth",Darkvision 120,"Aquan, Common, Thieves' Cant",3.00
+96,Demilich,Tiny,Undead,NE,20,80,fly 30,1,20,10,20,17,20,"CON, INT, WIS, CHA",,Truesight 120,,18.00
+97,"Demon Lord, Baphomet",Huge,Fiend (Demon),CE,22,275,40,30,14,26,18,24,16,"DEX, CON, WIS","Intimidation, Perception",Truesight 120,"All, telepathy 120",23.00
+98,"Demon Lord, Demogorgon",Huge,Fiend (Demon),CE,22,406,"50, swim 50",29,14,26,20,17,25,"DEX, CON, WIS, CHA","Insight, Perception",Truesight 120,"All, telepathy 120",26.00
+99,"Demon Lord, Fraz-Urb'Luu",Large,Fiend (Demon),CE,18,337,"40, fly 40",29,12,25,26,24,26,"DEX, CON, INT, WIS","Deception, Perception, Stealth",Truesight 120,"All, telepathy 120",23.00
+100,"Demon Lord, Graz'Zt",Large,"Fiend (Demon)
+Fiend (Shapechanger)",CE,20,346,40,22,15,21,23,21,26,"DEX, CON, WIS","Deception, Insight, Perception, Persuasion",Truesight 120,"All, telepathy 120",24.00
+101,"Demon Lord, Juiblex",Huge,Fiend (Demon),CE,18,350,30,24,10,23,20,20,16,"DEX, CON, WIS",Perception,Truesight 120,"All, telepathy 120",23.00
+102,"Demon Lord, Orcus",Huge,Fiend (Demon),CE,20,405,"40, fly 40",27,14,25,20,20,25,"DEX, CON, WIS","Arcana, Perception",Truesight 120,"All, telepathy 120",26.00
+103,"Demon Lord, Yeenoghu",Huge,Fiend (Demon),CE,20,333,50,29,16,23,15,24,15,"DEX, CON, WIS","Intimidation, Perception",Truesight 120,"All, telepathy 120",24.00
+104,"Demon Lord, Zuggtmoy",Large,Fiend (Demon),CE,18,304,30,22,15,18,20,19,24,"DEX, CON, WIS",Perception,Truesight 120,"All, telepathy 120",23.00
+105,"Demon, Abyssal Wretch",Medium,Fiend (Demon),CE,11,18,20,9,12,11,5,8,5,,,Darkvision 120,Abyssal,0.25
+106,"Demon, Alkilith",Medium,Fiend (Demon),CE,17,157,40,12,19,22,6,11,7,"DEX, CON",Stealth,Darkvision 120,Abyssal,11.00
+107,"Demon, Armanite",Large,Fiend (Demon),CE,16,84,60,21,18,21,8,12,13,,,Darkvision 120,"Abyssal, telepathy 120",7.00
+108,"Demon, Babau",Medium,Fiend (Demon),CE,16,82,40,19,16,16,11,12,13,,"Perception, Stealth",Darkvision 120,Abyssal,4.00
+109,"Demon, Balor",Huge,Fiend (Demon),CE,19,262,"40, 80 fly",26,15,22,20,16,22,"STR, CON, WIS, CHA",,Truesight 120,"Abyssal, telepathy 120",19.00
+110,"Demon, Barlgura",Large,Fiend (Demon),CE,15,68,"30, 30 climb",18,15,16,7,14,9,"DEX, CON","Perception, Stealth","Blindsight 30, Darkvision 120","Abyssal, telepathy 120",5.00
+111,"Demon, Bulezau",Medium,Fiend (Demon),CE,14,52,40,15,14,17,8,9,6,,,Darkvision 120,"Abyssal, telepathy 60",3.00
+112,"Demon, Chasme",Large,Fiend (Demon),CE,15,84,"20, fly 60",15,15,12,11,14,10,"DEX, WIS",Perception,"Blindsight 10, darkvision 120","Abyssal, telepathy 120",6.00
+113,"Demon, Draegloth",Large,Fiend (Demon),CE,15,123,30,20,15,18,13,11,11,,"Perception, Stealth",Darkvision 120,"Abyssal, Elvish, Undercommon",7.00
+114,"Demon, Dretch",small,Fiend (Demon),CE,11,18,20,11,11,12,5,8,3,,,Darkvision 60,"Abyssal, telepathy 60",0.25
+115,"Demon, Dybbuk",Medium,Fiend (Demon),CE,14,37,40 fly,6,19,16,16,15,14,,"Deception, Intimidation, Perception",Darkvision 120,"Abyssal, Common, telepathy 120",4.00
+116,"Demon, Glabrezu",Large,Fiend (Demon),CE,17,157,40,20,15,21,19,17,16,"STR, CON, WIS, CHA",,Truesight 120,"Abyssal, telepathy 120",9.00
+117,"Demon, Goristro",Huge,Fiend (Demon),CE,19,310,40,25,11,25,6,13,14,"STR, DEX, CON, WIS",Perception,Darkvision 120,Abyssal,17.00
+118,"Demon, Hezrou",Large,Fiend (Demon),CE,16,136,30,19,17,20,5,12,13,"STR, CON, WIS",,Darkvision 120,"Abyssal, telepathy 120",8.00
+119,"Demon, Manes",Small,Fiend (Demon),CE,9,9,20,10,9,13,3,8,4,,,Darkvision 60,Abyssal,0.13
+120,"Demon, Marilith",Large,Fiend (Demon),CE,18,189,40,18,20,20,18,16,20,"STR, CON, WIS, CHA",,Truesight 120,"Abyssal, telepathy 120",16.00
+121,"Demon, Maurezhi",Medium,Fiend (Demon),CE,15,88,30,14,17,12,11,12,15,,Deception,Darkvision 120,"Abyssal, Elvish, telepathy 120",7.00
+122,"Demon, Maw",Medium,Fiend (Demon),CE,13,33,30,14,8,13,5,8,5,,,Darkvision 60,Abyssal,1.00
+123,"Demon, Molydeus",Huge,Fiend (Demon),CE,19,216,40,28,22,25,21,24,24,"STR, CON, WIS, CHA",Perception,Truesight 120,"Abyssal, telepathy 120",21.00
+124,"Demon, Nabassu",Medium,Fiend (Demon),CE,18,190,"40, fly 60",22,14,21,14,15,17,"STR, DEX",Perception,Darkvision 60,"Abyssal, telepathy 120",15.00
+125,"Demon, Nalfeshnee",Large,Fiend (Demon),LE,18,184,"20, fly 30",21,10,22,19,12,15,"CON, INT, WIS, CHA",,Truesight 120,"Abyssal, telepathy 120",13.00
+126,"Demon, Quasit",Tiny,Fiend (Demon),CE,13,7,40,5,17,10,7,10,10,,Stealth,Darkvision 120,"Abyssal, Common",1.00
+127,"Demon, Rutterkin",Medium,Fiend (Demon),CE,12,37,20,14,15,17,5,12,6,,,Darkvision 120,Abyssal,2.00
+128,"Demon, Shadow",Medium,Fiend (Demon),CE,13,66,"30, fly 30",1,17,12,14,13,14,"DEX, CHA",Stealth,Darkvision 120,"Abyssal, telepathy 120",4.00
+129,"Demon, Shoosuva",Large,Fiend (Demon),CE,14,110,40,18,13,17,7,14,9,"DEX, CON, WIS",,Darkvision 60,"Abyssal, Gnoll, telepathy 120",8.00
+130,"Demon, Sibriex",Huge,Fiend (Demon),CE,19,150,fly 20,10,3,23,25,24,25,"INT, CHA","Arcana, History, Perception",Truesight 120,"All, telepathy 120",18.00
+131,"Demon, Vrock",Large,Fiend (Demon),CE,15,104,"40, fly 60",17,15,18,8,13,8,"DEX, WIS, CHA",,Darkvision 120,"Abyssal, telepathy 120",6.00
+132,"Demon, Wastrilith",Large,Fiend (Demon),CE,18,157,"30, swim 80",19,18,21,19,12,14,"STR, CON",,Darkvision 120,"Abyssal, telepathy 120",13.00
+133,"Demon, Yochlol",Medium,Fiend (Demon),CE,15,136,"30, 30 climb",15,14,18,13,15,15,"DEX, INT, WIS, CHA","Deception, Insight",Darkvision 120,"Abyssal, Elvish, Undercommon",10.00
+134,Derro,Small,Humanoid (Derro),CE,13,13,30,10,14,12,11,5,9,,Stealth,Darkvision 120,"Dwarvish, Undercommon",0.25
+135,Derro Savant,Small,Humanoid (Derro),CE,13,36,30,9,14,12,11,5,14,,Stealth,Darkvision 120,"Dwarvish, Undercommon",3.00
+136,"Devil, Abishai, Black",Medium,Fiend (Devil),LE,15,58,"30, fly 40",14,17,14,13,16,11,"DEX, WIS","Perception, Stealth",Darkvision 120,"Draconic, Infernal, telepathy 120",7.00
+137,"Devil, Abishai, Blue",Medium,Fiend (Devil),LE,19,195,"30, fly 50",15,14,17,22,23,18,"INT, WIS",Arcana,Darkvision 120,"Draconic, Infernal, telepathy 120",17.00
+138,"Devil, Abishai, Green",Medium,Fiend (Devil),LE,18,187,"30, fly 40",12,17,16,17,12,19,"INT, CHA","Deception, Insight, Perception, Persuasion",Darkvision 120,"Draconic, Infernal, telepathy 120",15.00
+139,"Devil, Abishai, Red",Medium,Fiend (Devil),LE,22,255,"30, fly 50",23,16,19,14,15,19,"STR, CON, WIS","Intimidation, Perception",Darkvision 120,"Draconic, Infernal, telepathy 120",19.00
+140,"Devil, Abishai, White",Medium,Fiend (Devil),LE,15,68,"30, fly 40",16,11,18,11,12,13,"STR, CON",,Darkvision 120,"Draconic, Infernal, telepathy 120",6.00
+141,"Devil, Amnizu",Medium,Fiend (Devil),LE,21,202,"30, fly 40",11,13,16,20,12,18,"DEX, CON, WIS, CHA",Perception,Darkvision 120,"Common, Infernal, telepathy 1000",18.00
+142,"Devil, Arch, Bael",Large,Fiend (Devil),LE,18,189,30,24,17,20,21,24,24,"DEX, CON, INT, CHA","Intimidation, Perception, Persuasion",Truesight 120,"All, telepathy 120",19.00
+143,"Devil, Arch, Geryon",Huge,Fiend (Devil),LE,19,300,"30, fly 50",29,17,22,19,16,23,"DEX, CON, WIS, CHA","Deception, Intimidation, Perception",Truesight 120,"All, telepathy 120",22.00
+144,"Devil, Arch, Hutijin",Large,Fiend (Devil),LE,19,200,"30, fly 60",27,15,25,23,19,25,"DEX, CON, WIS","Intimidation, Perception",Truesight 120,"All, telepathy 120",21.00
+145,"Devil, Arch, Moloch",Large,Fiend (Devil),LE,19,253,30,26,19,22,21,18,23,"DEX, CON, WIS, CHA","Deception, Intimidation, Perception",Darkvision 120,"All, telepathy 120",21.00
+146,"Devil, Arch, Titivilus",Medium,Fiend (Devil),LE,20,127,"40, fly 60",19,22,17,24,22,26,"DEX, CON, WIS, CHA","Deception, Insight, Intimidation, Persuasion",Darkvision 120,"All, telepathy 120",16.00
+147,"Devil, Arch, Zariel",Large,Fiend (Devil),LE,21,580,"50, fly 150",27,24,28,26,27,30,"INT, WIS, CHA","Intimidation, Perception",Darkvision 120,"All, telepathy 120",26.00
+148,"Devil, Barbed",Medium,Fiend (Devil),LE,15,110,30,16,17,18,12,14,14,"STR, CON, WIS, CHA","Deception, Insight, Perception",Darkvision 120,"Infernal, telepathy 120",5.00
+149,"Devil, Bearded",Medium,Fiend (Devil),LE,13,52,30,16,15,15,9,11,11,"STR, CON, WIS",,Darkvision 120,"Infernal, telepathy 120",3.00
+150,"Devil, Bone",Large,Fiend (Devil),LE,19,142,"40, 40 fly",18,16,18,13,14,16,"INT, WIS, CHA","Deception, Insight",Darkvision 120,"Infernal, telepathy 120",9.00
+151,"Devil, Chain",Medium,Fiend (Devil),LE,16,85,30,18,15,18,11,12,14,"CON, WIS, CHA",,Darkvision 120,"Infernal, telepathy 120",8.00
+152,"Devil, Erinyes",Medium,Fiend (Devil),LE,18,153,"30, fly 60",18,16,18,14,14,18,"DEX, CON, WIS, CHA",,Truesight 120,"Infernal, telepathy 120",12.00
+153,"Devil, Hellfire Engine",Huge,Construct,LE,18,216,40,20,16,24,2,10,1,"DEX, WIS, CHA",,Darkvision 120,Infernal,16.00
+154,"Devil, Horned",Large,Fiend (Devil),LE,18,178,"20, fly 60",22,17,21,12,16,17,"STR, DEX, WIS, CHA",,Darkvision 120,"Infernal, telepathy 120",11.00
+155,"Devil, Ice",Large,Fiend (Devil),LE,18,180,40,21,14,18,18,15,18,"DEX, CON, WIS, CHA",,"Blindsight 60, darkvision 120","Infernal, telepathy 120",14.00
+156,"Devil, Imp",Tiny,Fiend (Devil),LE,13,10,"20, 40 fly",6,17,13,11,12,14,,"Deception, Insight, Persuasion, Stealth",Darkvision 120,"Infernal, Common",1.00
+157,"Devil, Lemure",Medium,Fiend (Devil),LE,7,13,15,10,5,11,1,11,3,,,Darkvision 120,Infernal,0.00
+158,"Devil, Merregon",Medium,Fiend (Devil),LE,16,45,30,18,14,17,6,12,8,,,Darkvision 60,"Infernal, telepathy 120",4.00
+159,"Devil, Narzugon",Medium,Fiend (Devil),LE,20,112,30,20,10,17,16,14,19,"DEX, CON, CHA",Perception,Darkvision 120,"Common, Infernal, telepathy 120",13.00
+160,"Devil, Nupperibo",Medium,Fiend (Devil),LE,13,11,20,16,11,13,3,8,1,,Perception,Blindsight 10,Infernal,0.50
+161,"Devil, Orthon",Large,Fiend (Devil),LE,17,105,"30, climb 30",22,16,21,15,15,16,"DEX, CON, WIS","Perception, Stealth, Survival","Darkvision 120, truesight 30","Common, INfernal, telepathy 120",10.00
+162,"Devil, Pit Fiend",Large,Fiend (Devil),LE,19,300,"30, fly 60",26,14,24,22,18,24,"DEX, CON, WIS",,Truesight 120,"Infernal, telepathy 120",20.00
+163,"Devil, Spined",Small,Fiend (Devil),LE,15,22,"20, 40 fly",10,15,12,11,14,8,,,Darkvision 120,"Infernal, telepathy 120",2.00
+164,Devourer,Large,Fiend,CE,16,178,30,20,12,20,13,10,16,,,Darkvision 120,"Abyssal, telepathy 120",13.00
+165,"Dinosaur, Allosaurus",Large,Beast,U,13,51,60,19,13,17,2,12,5,,Perception,Normal,,2.00
+166,"Dinosaur, Ankylosaurus",Huge,Beast,U,15,68,30,19,11,15,2,12,5,,,Normal,,3.00
+167,"Dinosaur, Brontosaurus",Gargantuan,Beast,U,15,121,30,21,9,17,2,10,7,CON,,Normal,,5.00
+168,"Dinosaur, Deinonychus",Medium,Beast,U,13,26,40,15,15,14,4,12,6,,Perception,Normal,,1.00
+169,"Dinosaur, Dimetrodon",Medium,Beast,U,12,19,"30, swim 20",14,10,15,2,10,5,,Perception,Normal,,0.25
+170,"Dinosaur, Hadrosaurus",Large,Beast,U,11,19,40,15,10,13,2,10,5,,Perception,Normal,,0.25
+171,"Dinosaur, Plesiosaurus",Large,Beast,U,13,68,"20, swim 40",18,15,16,2,12,5,,"Perception, Stealth",Normal,,2.00
+172,"Dinosaur, Pteranodon",Medium,Beast,U,13,13,"10, fly 60",12,15,10,2,9,5,,Perception,Normal,,0.25
+173,"Dinosaur, Quetzalcoatlus",Huge,Beast,U,13,30,"10, fly 80",15,13,13,2,10,5,,Perception,Normal,,2.00
+174,"Dinosaur, Stegosaurus",Huge,Beast,U,13,76,40,20,9,17,2,11,5,,,Normal,,4.00
+175,"Dinosaur, Triceratops",Huge,Beast,U,13,95,50,22,9,17,2,11,5,,,Normal,,5.00
+176,"Dinosaur, Tyrannosaurus Rex",Huge,Beast,U,13,136,50,25,10,19,2,12,9,,Perception,Normal,,8.00
+177,"Dinosaur, Velociraptor",Tiny,Beast,U,13,10,30,6,14,13,4,12,6,,Perception,Normal,,0.25
+178,Displacer Beast,Large,Monstrosity,LE,13,85,40,18,15,16,6,12,8,,,Darkvision 60,,3.00
+179,Doppelganger,Medium,Monstrosity,N,14,52,30,11,18,14,11,12,14,,"Deception, Insight",Darkvision 60,Common,3.00
+180,Dracolich Template,TEMP,Undead,LE,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP
+181,"Dragon, Chromatic, Black, Adult",Huge,Dragon,CE,19,195,"40, 80 fly, swim 40",23,14,21,14,13,17,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",14.00
+182,"Dragon, Chromatic, Black, Ancient",Gargantuan,Dragon,CE,22,367,"40, 80 fly, swim 40",27,14,25,16,15,19,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",21.00
+183,"Dragon, Chromatic, Black, Wyrmling",Medium,Dragon,CE,17,33,"30, fly 60, 30 swim",15,14,13,10,11,13,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 30, darkvision 120","Common, Draconic",2.00
+184,"Dragon, Chromatic, Black, Young",Large,Dragon,CE,18,127,"40, 80 fly, swim 40",19,14,17,12,11,15,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 10, darkvision 60",Draconic,7.00
+185,"Dragon, Chromatic, Blue, Adult",Huge,Dragon,LE,19,225,"40, 40 burrow, 80 fly",25,10,23,16,15,19,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",16.00
+186,"Dragon, Chromatic, Blue, Ancient",Gargantuan,Dragon,LE,22,481,"40, 30 burrow, 80 fly",29,10,27,18,17,21,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",23.00
+187,"Dragon, Chromatic, Blue, Wyrmling",Medium,Dragon,LE,17,52,"30, 15 burrow, fly 60",17,10,15,12,11,15,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 30, darkvision 120","Common, Draconic",3.00
+188,"Dragon, Chromatic, Blue, Young",Large,Dragon,LE,18,152,"40, 20 burrow, 80 fly",21,10,19,14,13,17,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 10, darkvision 60",Draconic,9.00
+189,"Dragon, Chromatic, Green, Adult",Huge,Dragon,LE,19,207,"40, 80 fly, swim 40",23,12,21,18,15,17,"DEX, CON, WIS, CHA","Deception, Insight, Perception, Persuasion, Stealth","Blindsight 60, darkvision 120","Common, Draconic",15.00
+190,"Dragon, Chromatic, Green, Ancient",Gargantuan,Dragon,LE,21,385,"40, 80 fly, swim 40",27,12,25,20,17,19,"DEX, CON, WIS, CHA","Deception, Insight, Perception, Persuasion, Stealth","Blindsight 60, darkvision 120","Common, Draconic",22.00
+191,"Dragon, Chromatic, Green, Wyrmling",Medium,Dragon,LE,17,38,"30, fly 60, swim 30",15,12,13,14,11,13,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 30, darkvision 120",Draconic,2.00
+192,"Dragon, Chromatic, Green, Young",Large,Dragon,LE,18,136,"40, fly 80, swim 40",19,12,17,16,13,15,"DEX, CON, WIS, CHA","Deception, Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",8.00
+193,"Dragon, Chromatic, Red, Adult",Huge,Dragon,CE,19,256,"40, climb 40, fly 80",27,10,25,16,13,21,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",17.00
+194,"Dragon, Chromatic, Red, Ancient",Gargantuan,Dragon,CE,22,546,"40, climb 40, fly 80",30,10,29,18,15,23,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",24.00
+195,"Dragon, Chromatic, Red, Wyrmling",Medium,Dragon,CE,17,75,"40, climb 40, fly 80",19,10,17,12,11,15,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 30, darkvision 120",Draconic,4.00
+196,"Dragon, Chromatic, Red, Young",Large,Dragon,CE,18,178,"30, climb 30, fly 60",23,10,21,14,11,19,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 10, darkvision 60","Common, Draconic",10.00
+197,"Dragon, Chromatic, White, Adult",Huge,Dragon,CE,18,200,"40, burrow 30, fly 80,  swim 40",22,10,22,8,12,12,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",13.00
+198,"Dragon, Chromatic, White, Ancient",Gargantuan,Dragon,CE,20,333,"40, burrow 40, fly 80, swim 40",26,10,26,10,13,14,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",20.00
+199,"Dragon, Chromatic, White, Wyrmling",Medium,Dragon,CE,16,32,"30, burrow 15, fly 60, swim 30",14,10,14,5,10,11,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 10, darkvision 60",Draconic,2.00
+200,"Dragon, Chromatic, White, Young",Large,Dragon,CE,14,133,"40, burrow 20, fly 80, swim 40",18,10,18,6,11,12,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 30, darkvision 120","Common, Draconic",6.00
+201,"Dragon, Metallic, Brass, Adult",Huge,Dragon,CG,18,172,"40, burrow 30, fly 80",23,10,21,14,13,17,"DEX, CON, WIS, CHA","History, Perception, Persuasion, Stealth","Blindsight 60, darkvision 120,","Common, Draconic",13.00
+202,"Dragon, Metallic, Brass, Ancient",Gargantuan,Dragon,CG,20,297,"40, burrow 40, fly 80",27,10,25,16,15,19,"DEX, CON, WIS, CHA","History, Perception, Persuasion, Stealth","Blindsight 60, darkvision 120,","Common, Draconic",20.00
+203,"Dragon, Metallic, Brass, Wyrmling",Medium,Dragon,CG,16,16,"30, burrow 15, fly 60",15,10,13,10,11,13,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 10, Darkvision 60",Draconic,1.00
+204,"Dragon, Metallic, Brass, Young",Large,Dragon,CG,17,110,"40, burrow 20, fly 80",19,10,17,12,11,15,"DEX, CON, WIS, CHA","Perception, Persuasion, Stealth","Blindsight 30, Darkvision 120","Common, Draconic",6.00
+205,"Dragon, Metallic, Bronze, Adult",Huge,Dragon,LG,19,212,"40, 80 fly, swim 40",25,10,23,16,15,19,"DEX, CON, WIS, CHA","Insight, Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",15.00
+206,"Dragon, Metallic, Bronze, Ancient",Gargantuan,Dragon,LG,22,444,"40, fly 80, swim 40",29,10,27,18,17,21,"DEX, CON, WIS, CHA","Insight, Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",22.00
+207,"Dragon, Metallic, Bronze, Wyrmling",Medium,Dragon,LG,17,32,"30, fly 60, swim 30",17,10,15,12,11,15,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 10, darkvision 60",Draconic,2.00
+208,"Dragon, Metallic, Bronze, Young",Large,Dragon,LG,18,142,"40, fly 80, swim 40",21,10,19,14,13,17,"DEX, CON, WIS, CHA","Insight, Perception, Stealth","Blindsight 30, Darkvision 120","Common, Draconic",8.00
+209,"Dragon, Metallic, Copper, Adult",Huge,Dragon,CG,18,184,"40, climb 40, fly 80",23,12,21,18,15,17,"DEX, CON, WIS, CHA","Deception, Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",14.00
+210,"Dragon, Metallic, Copper, Ancient",Gargantuan,Dragon,CG,21,350,"40, climb 40, fly 80",27,12,25,20,17,19,"DEX, CON, WIS, CHA","Deception, Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",21.00
+211,"Dragon, Metallic, Copper, Wyrmling",Medium,Dragon,CG,16,22,"30, climb 30, fly 60",15,12,13,14,11,13,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 10, darkvision 60",Draconic,1.00
+212,"Dragon, Metallic, Copper, Young",Large,Dragon,CG,17,119,"40, climb 40, fly 80",19,12,17,16,13,15,"DEX, CON, WIS, CHA","Deception, Perception, Stealth","Blindsight 30, darkvision 120","Common, Draconic",7.00
+213,"Dragon, Metallic, Gold, Adult",Huge,Dragon,LG,19,256,"40, fly 80, swim 40",27,14,25,16,15,24,"DEX, CON, WIS, CHA","Insight, Perception, Persuasion, Stealth","Blindsight 60, darkvision 120","Common, Draconic",17.00
+214,"Dragon, Metallic, Gold, Ancient",Gargantuan,Dragon,LG,22,546,"40, fly 80, swim 40",30,14,29,18,17,28,"DEX, CON, WIS, CHA","Insight, Perception, Persuasion, Stealth","Blindsight 60, darkvision 120","Common, Draconic",24.00
+215,"Dragon, Metallic, Gold, Wyrmling",Medium,Dragon,LG,17,60,"30, fly 60, swim 30",19,14,17,14,11,16,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 10, darkvision 60",Draconic,3.00
+216,"Dragon, Metallic, Gold, Young",Large,Dragon,LG,18,178,"40, fly 80, swim 40",23,14,21,16,13,20,"DEX, CON, WIS, CHA","Insight, Perception, Persuasion, Stealth","Blindsight 30, darkvision 120","Common, Draconic",10.00
+217,"Dragon, Metallic, Silver, Adult",Huge,Dragon,LG,19,243,"40, fly 80",27,10,25,16,13,21,"DEX, CON, WIS, CHA","Arcana, History, Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",16.00
+218,"Dragon, Metallic, Silver, Ancient",Gargantuan,Dragon,LG,22,487,"40, fly 80",30,10,29,18,15,23,"DEX, CON, WIS, CHA","Arcana, History, Perception, Stealth","Blindsight 60, darkvision 120","Common, Draconic",23.00
+219,"Dragon, Metallic, Silver, Wyrmling",Medium,Dragon,LG,17,45,"30, fly 60",19,10,17,12,11,15,"DEX, CON, WIS, CHA","Perception, Stealth","Blindsight 10, darkvision 60",Draconic,2.00
+220,"Dragon, Metallic, Silver, Young",Large,Dragon,LG,18,168,"40, fly 80",23,10,21,14,11,19,"DEX, CON, WIS, CHA","Arcana, History, Perception, Stealth","Blindsight 30, darkvision 120","Common, Draconic",9.00
+221,"Dragon, Turtle",Gargantuan,Dragon,N,20,341,"20, swim 40",25,10,20,10,12,12,"DEX, CON, WIS",,Darkvision 120,"Aquan, Draconic",17.00
+222,Dragonclaw,Medium,Humanoid (Human),NE,14,16,30,9,16,13,11,10,12,WIS,"Deception, Stealth",Normal,"Common, Draconic",1.00
+223,Dragonfang,Medium,Humanoid (Human),NE,15,78,30,11,16,14,12,12,14,WIS,"Deception, Stealth",Normal,"Common, Draconic, Infernal",5.00
+224,Dragonsoul,Medium,Humanoid (Human),NE,16,110,30,11,18,14,13,12,16,WIS,"Deception, Stealth",Normal,"Common, Draconic, Infernal",7.00
+225,Dragonwing,Medium,Humanoid (Human),NE,14,32,30,9,16,13,11,10,12,WIS,"Deception, Stealth",Normal,"Common, Draconic",2.00
+226,Dread Warrior,Medium,Undead,NE,18,37,30,15,11,16,10,12,10,WIS,"Athletics, Perception",Darkvision 60,Common,1.00
+227,Drider,Large,Monstrosity,CE,19,123,"30, climb 30",16,16,18,13,14,12,,"Perception, Stealth",Darkvision 120,"Elvish, Undercommon",6.00
+228,Drow,Medium,Humanoid,NE,15,13,30,10,14,10,11,11,12,,"Perception, Stealth",Darkvision 120,"Elvish, Undercommon",0.25
+229,Drow Arachnomancer,Medium,Humanoid (Elf),CE,15,162,"30, climb 30",11,17,14,19,14,16,"CON, INT, CHA","Arcana, Nature, Perception, Stealth","Blindsight 10, darkvision 120","Elvish, Undercommon, spiders",13.00
+230,Drow Elite Warrior,Medium,Humanoid,NE,18,71,30,13,18,14,11,13,12,"DEX, CON, WIS","Perception, Stealth",Darkvision 120,"Elvish, Undercommon",5.00
+231,Drow Favored Consort,Medium,Humanoid (Elf),NE,15,225,30,15,20,16,18,15,18,"DEX, CON, CHA","Acrobatics, Athletics, Perception, Stealth",Darkvision 120,"Elvish, Undercommon",18.00
+232,Drow House Captain,Medium,Humanoid (Elf),NE,16,162,30,14,19,15,12,14,13,"DEX, CON, WIS","Perception, Stealth",Darkvision 120,"Elvish, Undercommon",9.00
+233,Drow Inquisitor,Medium,Humanoid (Elf),NE,16,143,30,11,15,14,16,21,20,"CON, WIS, CHA","Insight, Perception, Religion, Stealth",Darkvision 120,"Elivhs, Undercommon",14.00
+234,Drow Mage,Medium,Humanoid,NE,12,45,30,9,14,10,17,13,12,,"Arcana, Deception, Perception, Stealth",Darkvision 120,"Elvish, Undercommon",7.00
+235,Drow Matron Mother,Medium,Humanoid (Elf),NE,17,262,30,12,18,16,17,21,22,"CON, WIS, CHA","Insight, Perception, Religion, Stealth",Darkvision 120,"Elvish, Undercommon",20.00
+236,Drow Priestess of Lolth,Medium,Humanoid,NE,16,71,30,10,14,12,13,17,18,"CON, WIS, CHA","Insight, Perception, Religion, Stealth",Darkvision 120,"Elvish, Undercommon",8.00
+237,Drow Shadowblade,Medium,Humanoid (Elf),NE,17,150,30,14,21,16,12,14,13,"DEX, CON, WIS","Perception, Stealth",Darkvision 120,"Elvish, Undercommon",11.00
+238,Dryad,Medium,Fey,N,11,22,30,1,12,11,14,15,18,,"Perception, Stealth",Darkvision 60,"Elvish, Sylvan",1.00
+239,Duergar,Medium,Humanoid,LE,16,26,25,14,11,14,11,10,9,,,Darkvision 120,"Dwarvish, Undercommon",1.00
+240,Duergar Darkhaft,Medium,Humanoid (Dwarf),LE,16,26,25,14,11,14,11,10,9,,,Darkvision 120,"Dwarvish, Undercommon",2.00
+241,Duergar Despot,Medium,Humanoid (Dwarf),LE,21,119,25,20,5,19,15,14,13,"CON, WIS",,Darkvision 120,"Dwarvish, Undercommon",12.00
+242,Duergar Hammerer,Medium,Humanoid (Dwarf),LE,17,33,20,17,7,12,5,5,5,,,Darkvision 60,Dwarvish,2.00
+243,Duergar Kavalrachni,Medium,Humanoid (Dwarf),LE,16,26,25,14,11,14,11,10,9,,,Darkvision 120,"Dwarvish, Undercommon",2.00
+244,Duergar Keeper of the Flame,Medium,Humanoid (Dwarf),LE,16,26,25,14,11,14,11,10,9,,,Darkvision 120,"Dwarvish, Undercommon",2.00
+245,Duergar Mind Master,Medium,Humanoid (Dwarf),LE,14,39,25,11,17,14,15,10,12,WIS,"Perception, Stealth","Darkvision 120, truesight 30","Dwarvish, Undercommon",2.00
+246,Duergar Screamer,Medium,Construct,LE,15,38,20,18,7,12,5,5,5,,,Darkvision 60,Dwarvish,3.00
+247,Duergar Soulblade,Medium,Humanoid (Dwarf),LE,14,18,25,11,16,10,11,10,12,,,Darkvision 120,"Dwarvish, Undercommon",1.00
+248,Duergar Spy,Medium,Humanoid (Dwarf),LE,15,33,25,10,16,12,12,10,13,,"Deception, Insight, Investigation, Perception, Persuasion, Sleight of Hand, Stealth",Darkvision 120,"Dwarvish, Undercommon",2.00
+249,Duergar Stone Guard,Medium,Humanoid (Dwarf),LE,18,39,25,18,11,14,11,10,9,,,Darkvision 120,"Dwarvish, Undercommon",2.00
+250,Duergar Warlord,Medium,Humanoid (Dwarf),LE,20,75,25,18,11,17,12,12,14,,,Darkvision 120,"Dwarvish, Undercommon",6.00
+251,Duergar Xarrorn,Medium,Humanoid (Dwarf),LE,18,26,25,16,11,14,11,10,9,,,Darkvision 120,"Dwarvish, Undercommon",2.00
+252,Eblis,Large,Monstrosity,NE,13,26,"30, fly 40",11,16,12,12,14,11,,,Normal,"Auran, Common",1.00
+253,Eidolon,Medium,Undead,ANY,9,63,fly 40,7,8,9,14,19,16,WIS,Perception,Darkvision 60,Any,12.00
+254,"Eidolon, Sacred Statue",Large,Construct,ANY,19,95,25,19,8,19,14,19,16,WIS,,Darkvision 60,Any,12.00
+255,"Eladrin, Autumn",Medium,Fey,CN,19,127,30,12,16,16,14,17,18,,"Insight, Medicine",Darkvision 60,"Common, Elvish, Sylvan",10.00
+256,"Eladrin, Spring",Medium,Fey,CN,19,127,30,14,16,16,18,11,18,,"Deception, Persuasion",Darkvision 60,"Common, Elvish, Sylvan",10.00
+257,"Eladrin, Summer",Medium,Fey,CN,19,127,50,19,21,16,14,12,18,,"Athletics, Intimidation",Darkvision 60,"Common, Elvish, Sylvan",10.00
+258,"Eladrin, Winter",Medium,Fey,CN,19,127,30,11,10,16,18,17,13,,,Darkvision 60,"Common, Elvish, Sylvan",10.00
+259,"Elder Elemental, Elder Tempest",Gargantuan,Elemental,N,19,264,fly 120,23,28,23,2,21,18,"WIS, CHA",,Darkvision 60,,23.00
+260,"Elder Elemental, Leviathan",Gargantuan,Elemental,N,17,328,"40, swim 120",30,24,30,2,18,17,"WIS, CHA",,Darkvision 60,,20.00
+261,"Elder Elemental, Phoenix",Gargantuan,Elemental,N,18,175,"20, fly 120",19,26,25,2,21,18,"WIS, CHA",,Darkvision 60,,16.00
+262,"Elder Elemental, Zaratan",Gargantuan,Elemental,N,21,307,"40, swim 40",30,10,30,2,21,18,"WIS, CHA",,"Darkvision 60, tremorsense 60",,22.00
+263,"Elemental Myrmidon, Air",Medium,Elemental,N,18,117,"30, fly 30",18,14,14,9,10,10,,,Darkvision 60,"Auran, Any",7.00
+264,"Elemental Myrmidon, Earth",Medium,Elemental,N,18,127,30,18,10,17,8,10,10,,,Darkvision 60,"Terran, Any",7.00
+265,"Elemental Myrmidon, Fire",Medium,Elemental,N,18,123,40,13,18,15,9,10,10,,,Darkvision 60,"Ignan, Any",7.00
+266,"Elemental Myrmidon, Water",Medium,Elemental,N,18,127,"40, swim 40",18,14,15,8,10,10,,,Darkvision 60,"Aquan, Any",7.00
+267,"Elemental, Air",Large,Elemental,N,15,90,fly 90,14,20,14,6,10,6,,,Darkvision 60,Auran,5.00
+268,"Elemental, Earth",Large,Elemental,N,17,126,"30, burrow 30",20,8,20,5,10,5,,,"Darkvision 60, tremorsense 60",Terran,5.00
+269,"Elemental, Fire",large,Elemental,N,13,102,50,10,17,16,6,10,7,,,Darkvision 60,Ignan,5.00
+270,"Elemental, Water",Large,Elemental,N,14,114,"30, swim 90",18,14,18,5,10,8,,,Darkvision 60,Aquan,5.00
+271,Empyrean,Huge,Celestial,CG OR NE,22,313,"50, fly 50, swim 50",30,21,30,21,22,27,"STR, INT, WIS, CHA","Insight, Persuasion",Truesight 120,All,23.00
+272,Eternal Flame Guardian,Medium,Humanoid (Human),CE,17,45,30,15,13,14,8,11,13,,"Intimidation, Perception",Normal,Common,2.00
+273,Eternal Flame Priest,Medium,Humanoid (Human),NE,12,52,30,12,15,14,10,11,16,,"Deception, Intimidation, Religion",Normal,"Common, Ignan",3.00
+274,"Eternal Flame, Flamewrath",Medium,Humanoid (Human),CE,12,105,30,10,14,16,11,10,16,,"Arcana, Religion",Normal,"Common, Ignan",6.00
+275,"Eternal Flame, Razerblast",Medium,Humanoid (Human),CE,17,112,30,16,11,16,9,10,13,,"Intimidation, Perception",Normal,"Common, Ignan",5.00
+276,Ettercap,Medium,Monstrosity,NE,13,44,"30, climb 30",14,15,13,7,12,8,,"Perception, Stealth, Survival",Darkvision 60,,2.00
+277,Ettin,large,Giant,CE,12,85,40',21,8,17,6,10,8,,Perception,Darkvision 60,"Giant, Orc",4.00
+278,Faerie Dragon,Tiny,Dragon,CG,15,14,"10, fly 60",3,20,13,14,12,16,,"Arcana, Perception, Stealth",Darkvision 60,"Draconic, Sylvan",1.00
+279,Firenewt Warlock of Imix,Medium,Humanoid (Firenewt),NE,10,33,30,13,11,12,9,11,14,,,Darkvision 120,"Draconic, Ignan",1.00
+280,Firenewt Warrior,Medium,Humanoid (Firenewt),NE,16,22,30,10,13,12,7,11,8,,,Normal,"Draconic, Ignan",0.50
+281,Flail Snail,Large,Elemental,U,16,52,10,17,5,20,3,10,5,,,"Darkvision 60, tremorsense 60",,3.00
+282,Flameskull,Tiny,Undead,NE,13,40,fly 40,1,17,14,16,10,11,,"Arcana, Perception",Darkvision 60,Common,4.00
+283,Flumph,Small,Aberration,LG,12,7,"5, fly 30",6,15,10,14,14,11,,"Arcana, History, Religion",Darkvision 60,"Undercommon, telepathy 60",0.13
+284,Flying Monkey,Small,Beast,U,12,3,"20, climb 20, fly 30",8,14,11,5,12,6,,,Normal,,0.00
+285,Fomorian,Huge,Giant,CE,14,149,30,23,10,20,9,14,6,,"Perception, Stealth",Darkvision 120,"Giant, Undercommon",8.00
+286,Froghemoth,Huge,Monstrosity,U,14,184,"30, swim 30",23,13,20,2,12,5,"CON, WIS","Perception, Stealth",Darkvision 60,,10.00
+287,"Fungus, Gas Spore",Large,Plant,U,5,1,fly 10,5,1,3,1,1,1,,,Blindsight 30,,0.50
+288,"Fungus, Shrieker",Medium,Plant,U,5,13,,1,1,10,1,10,3,,,Blindsight 30,,0.00
+289,"Fungus, Violet",Medium,Plant,U,5,18,5,3,1,10,1,3,1,,,Blindsight 30,,0.25
+290,Galeb Duhr,Medium,Elemental,N,16,85,"15, rolling",20,14,20,11,12,11,,,"Darkvision 60, tremorsense 60",Terran,6.00
+291,Gargoyle,Medium,Elemental,CE,15,52,"30, fly 60",15,11,16,6,11,7,,,Darkvision 60,Terran,2.00
+292,"Gargoyle, Giant Four-Armed",Large,Elemental,CE,17,147,"30, fly 60",19,11,20,6,11,9,WIS,Perception,Darkvision 60,Terran,10.00
+293,"Genie, Dao",Large,Elemental,NE,18,187,"30, burrow 30, fly 30",23,12,24,12,13,14,"INT, WIS, CHA",,Darkvision 120,Terran,11.00
+294,"Genie, Djinni",Large,Elemental,CG,17,161,"30, fly 90",21,15,22,15,16,20,"DEX, WIS, CHA",,Darkvision 120,Auran,11.00
+295,"Genie, Efreeti",Large,Elemental,LE,17,200,"40, fly 60",22,12,24,16,15,16,"INT, WIS, CHA",,Darkvision 120,Ignan,11.00
+296,"Genie, Marid",Large,Elemental,CN,17,229,"30, fly 60, swim 90",22,12,26,18,17,18,"DEX, WIS, CHA",,"Blindsight 30, darkvision 120",Aquan,11.00
+297,Geonid,Small,Elemental,N,17,26,30,12,10,16,9,14,11,,"Perception, Stealth","Darkvision 60, tremorsense 30",Terran,0.25
+298,Ghost,Medium,Undead,ANY,11,45,fly 40,7,13,10,10,12,17,,,Darkvision 60,Any,4.00
+299,Ghoul,Medium,Undead,CE,12,22,30,13,15,10,7,10,6,,,Darkvision 60,Common,1.00
+300,"Ghoul, Ghast",Medium,Undead,CE,13,36,30,16,17,10,11,10,8,,,Darkvision 60,Common,2.00
+301,Giant Crayfish,Large,Beast,U,15,45,"30, swim 30",15,13,13,1,9,3,,Stealth,Blindsight 30,,2.00
+302,Giant Fly,Large,Beast,U,11,19,"30, fly 60",14,13,13,2,10,3,,,Darkvision 60,,0.00
+303,Giant Ice Toad,Large,Monstrosity,N,14,52,30,16,13,14,8,10,6,,,Darkvision 60,Own,3.00
+304,Giant Lightning Eel,Large,Beast,U,13,42,"5, swim 30",11,17,16,2,12,3,,,Blindsight 60,,3.00
+305,Giant Snapping Turtle,Large,Beast,U,17,75,"30, swim 40",19,10,14,2,12,5,,,Darkvision 60,,3.00
+306,Giant Strider,Large,Monstrosity,NE,14,22,50,18,13,14,4,12,6,,,Normal,,1.00
+307,Giant Subterranean Lizard,Huge,Beast,U,14,66,"30, swim 50",21,9,17,2,10,7,,Stealth,Normal,,4.00
+308,"Giant, Cloud",Huge,Giant,NG/NE,14,200,40,27,10,22,12,16,16,"CON, WIS, CHA","Insight, Perception",Normal,"Common, Giant",9.00
+309,"Giant, Cloud, Smiling One",Huge,"Giant (Giant, Cloud)",CN,15,262,40,26,12,22,15,16,17,"CON, INT, CHA","Deception, Insight, Perception, Sleight of Hand",Normal,"Common, Giant",11.00
+310,"Giant, Fire",Huge,Giant,LE,18,162,30,25,9,23,10,14,13,"DEX, CON, CHA","Athletics, Perception",Normal,Giant,9.00
+311,"Giant, Fire, Dreadnought",Huge,"Giant (Giant, Fire)",LE,21,187,30,27,9,23,8,10,11,"DEX, CON, CHA","Athletics, Perception",Normal,Giant,14.00
+312,"Giant, Frost",Huge,Giant,NE,15,138,40,23,9,21,9,10,12,"CON, WIS, CHA","Athletics, Perception",Normal,Giant,8.00
+313,"Giant, Frost, Everlasting One",Huge,"Giant (Giant, Frost)",CE,15,189,40,25,9,24,9,10,12,"STR, CON, WIS","Athletics, Perception",Darkvision 60,Giant,12.00
+314,"Giant, Hill",Huge,Giant,CE,13,105,40,21,8,19,5,9,6,,Perception,Normal,Giant,5.00
+315,"Giant, Hill, Mouth of Grolantor",Huge,"Giant (Giant, Hill)",CE,14,105,50,21,10,18,5,7,5,,Perception,Normal,Giant,6.00
+316,"Giant, Stone",Huge,Giant,N,17,126,40,23,15,20,10,12,9,"DEX, CON, WIS","Athletics, Perception",Darkvision 60,Giant,7.00
+317,"Giant, Stone, Dreamwalker",Huge,"Giant (Giant, Stone)",CN,18,161,40,23,14,21,10,8,12,"DEX, CON, WIS","Athletics, Perception",Darkvision 60,"Common, Giant",10.00
+318,"Giant, Storm",Huge,Giant,CG,16,230,"50, swim 50",29,14,20,16,18,18,"STR, CON, WIS, CHA","Arcana, Athletics, History, Perception",Normal,"Common, Giant",13.00
+319,"Giant, Storm, Quintessent",Huge,"Giant (Giant, Storm)",CG,12,230,"50, fly 50, swim 50",29,14,20,17,20,19,"STR, CON, WIS, CHA","Arcana, History, Perception",Truesight 60,"Common, Giant",16.00
+320,Gibbering Mouther,Medium,Aberration,N,9,67,"10, swim 10",10,8,16,3,10,6,,,Darkvision 60,,2.00
+321,Giff,Medium,Humanoid,LN,16,60,30,18,14,17,11,12,12,,,Normal,Common,3.00
+322,Girallon,Large,Monstrosity,U,13,59,"40, climb 40",18,16,16,5,12,7,,"Perception, Stealth",Darkvision 60,,4.00
+323,Githyanki Gish,Medium,Humanoid (Gith),LE,17,123,30,17,15,14,16,15,16,"CON, INT, WIS","Insight, Perception, Stealth",Normal,Own,10.00
+324,Githyanki Kith'Rak,Medium,Humanoid (Gith),LE,18,180,30,18,16,17,16,15,17,"CON, INT, WIS","Intimidation, Perception",Normal,Own,12.00
+325,Githyanki Knight,Medium,Humanoid,LE,18,91,30,16,14,15,14,14,15,"CON, INT, WIS",,Normal,Own,8.00
+326,Githyanki Supreme Commander,Medium,Humanoid (Gith),LE,18,187,30,19,17,18,16,16,18,"CON, INT, WIS","Insight, Intimidation, Perception",Normal,Own,14.00
+327,Githyanki Warrior,Medium,Humanoid,LE,17,49,30,15,14,12,13,13,10,"CON, INT, WIS",,Normal,Own,3.00
+328,Githzerai Anarch,Medium,Humanoid (Gith),LN,20,144,30,16,21,18,18,20,14,"STR, DEX, INT, WIS","Arcana, Insight, Perception",Normal,Own,16.00
+329,Githzerai Enlightened,Medium,Humanoid (Gith),LN,18,112,30,14,19,16,17,19,13,"STR, DEX, INT, WIS","Arcana, Insight, Perception",Normal,Own,10.00
+330,Githzerai Monk,Medium,Humanoid,LN,14,38,30,12,15,12,13,14,10,"STR, DEX, INT, WIS","Insight, Perception",Normal,Own,2.00
+331,Githzerai Zerth,Medium,Humanoid,LN,17,84,30,13,18,15,16,17,12,"STR, DEX, INT, WIS","Arcana, Insight, Perception",Normal,Own,6.00
+332,Gnoll,Medium,Humanoid,CE,15,22,30,14,12,11,6,10,7,,,Darkvision 60,Gnoll,0.50
+333,Gnoll Fang of Yeenoghu,Medium,Humanoid,CE,14,65,30,17,15,15,10,11,13,"CON, WIS, CHA",,Darkvision 60,"Abyssal, Gnoll",4.00
+334,Gnoll Flesh Gnawer,Medium,Humanoid (Gnoll),CE,14,22,30,12,14,12,8,10,8,DEX,,Darkvision 60,Gnoll,1.00
+335,Gnoll Hunter,Medium,Humanoid (Gnoll),CE,13,22,30,14,14,12,8,12,8,,"Perception, Stealth",Darkvision 60,GNoll,0.50
+336,Gnoll Pack Lord,Medium,Humanoid,CE,15,49,30,16,14,13,8,11,9,,,Darkvision 60,Gnoll,2.00
+337,Gnoll Witherling,Medium,Undead,CE,12,11,30,14,8,12,5,5,5,,,Darkvision 60,Gnoll,0.25
+338,"Gnoll, Flind",Medium,Humanoid (Gnoll),CE,16,127,30,20,10,19,11,13,12,"CON, WIS","Intimation, Perception",Darkvision 60,"Gnoll, Abyssal",9.00
+339,"Gnome, Deep (Svirfneblin)",Small,Humanoid,NG,15,16,20,15,14,14,12,10,9,,"Investigation, Perception, Stealth",Darkvision 120,"Gnomish, Terran, Undercommon",0.50
+340,Goblin,small,Humanoid,NE,15,7,30,8,14,10,10,8,8,,Stealth,Darkvision 60,"Common, Goblin",0.25
+341,Goblin Boss,small,Humanoid,NE,17,21,30,10,14,10,10,8,10,,Stealth,Darkvision 60,"Common, Goblin",1.00
+342,"Golem, Clay",Large,Construct,U,14,133,20,20,9,18,3,8,1,,,Darkvision 60,Creator,9.00
+343,"Golem, Flesh",Medium,Construct,N,9,93,30,19,9,18,6,10,5,,,Darkvision 60,Creator,5.00
+344,"Golem, Iron",Large,Construct,U,20,210,30,24,9,20,3,11,1,,,Darkvision 120,Creator,16.00
+345,"Golem, Stone",Large,Construct,U,17,178,30,22,9,20,3,11,1,,,Darkvision 120,Creator,10.00
+346,Gorgon,Large,Monstrosity,U,19,114,40,20,11,18,2,12,7,,Perception,Darkvision 60,,5.00
+347,Gray Render,Large,Monstrosity,CN,19,189,30,19,13,20,3,6,8,"STR, CON",Perception,Darkvision 60,,12.00
+348,Grell,Medium,Aberration,NE,12,55,"10, fly 30",15,14,13,12,11,9,,"Perception, Stealth",Blindsight 60,Own,3.00
+349,Grick,Medium,Monstrosity,N,14,27,"30, climb 30",14,14,11,3,14,5,,,Darkvision 60,,2.00
+350,Grick Alpha,Medium,Monstrosity,N,18,75,"30, climb 30",18,16,15,4,14,9,,,Darkvision 60,,7.00
+351,Griffon,Large,Monstrosity,U,12,59,"30, fly 80",18,15,16,2,13,8,,Perception,Darkvision 60,,2.00
+352,Grimlock,Medium,Humanoid,NE,11,11,30,16,12,12,9,8,6,,"Athletics, Perception, Stealth",Blindsight 30,Undercommon,0.25
+353,Grung,Small,Humanoid (Grung),LE,12,11,"25, climb 25",7,14,15,10,11,10,DEX,"Athletics, Perception, Stealth, Survival",Normal,Own,0.25
+354,Grung Elite Warrior,Small,Humanoid (Grung),LE,13,49,"25, climb 25",7,16,15,10,11,12,DEX,"Athletics, Perception, Stealth, Survival",Normal,Own,2.00
+355,Grung Wildling,Small,Humanoid (Grung),LE,13,27,"25, climb 25",7,16,15,10,15,11,DEX,"Athletics, Perception, Stealth, Survival",Normal,Own,1.00
+356,Guard Drake,Medium,Dragon,U,14,52,30,16,11,16,4,10,7,,Perception,Darkvision 60,"Draconic, Ignan",2.00
+357,Guardian Portrait,Medium,Construct,U,5,22,,1,1,10,14,10,10,,,Darkvision 60,"Common, Any",1.00
+358,"Hag, Annis",Large,Fey,CE,17,75,40,21,12,14,13,14,15,CON,"Deception, Perception",Darkvision 60,"COmmon, Giant, Sylvan",6.00
+359,"Hag, Bheur",Medium,Fey,CE,17,91,30,13,16,14,12,13,16,WIS,"Nature, Perception, Stealth, Survival",Darkvision 60,"Auran, Common, Giant",7.00
+360,"Hag, Green",Medium,Fey,NE,17,82,30,18,12,16,13,14,14,,"Arcana, Deception, Perception, Stealth",Darkvision 60,"Common, Draconic, Sylvan",3.00
+361,"Hag, Night",Medium,Fiend,NE,17,112,30,18,15,16,16,14,16,,"Deception, Insight, Perception, Stealth",Darkvision 120,"Abyssal, Common, Infernal, Primordial",5.00
+362,"Hag, Sea",Medium,Fey,CE,14,52,"30, swim 40",16,13,16,12,12,13,,,Darkvision 60,"Aquan, Common, Giant",2.00
+363,Half-Dragon Template,TEMP,TEMP,ANY,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,TEMP,"TEMP, Blindsight 10, Darkvision 60","TEMP, Draconic",TEMP
+364,Harpy,Medium,Monstrosity,CE,11,38,"20, fly 40",12,13,12,7,10,13,,,Normal,Common,1.00
+365,Hell Hound,Medium,Fiend,LE,15,45,50,17,12,14,6,13,6,,Perception,Darkvision 60,Infernal,3.00
+366,Helmed Horror,Medium,Construct,N,20,60,"30, fly 30",18,13,16,10,10,10,,Perception,Blindsight 60,Creator,4.00
+367,Hippogriff,Large,Monstrosity,U,11,19,"40, fly 60",17,13,13,2,12,8,,Perception,Normal,,1.00
+368,Hobgoblin,Medium,Humanoid,LE,18,11,30,13,12,12,10,10,9,,,Darkvision 60,"Common, Goblin",0.50
+369,Hobgoblin Captain,Medium,Humanoid,LE,17,39,30,15,14,14,12,10,13,,,Darkvision 60,"Common, Goblin",3.00
+370,Hobgoblin Devastator,Medium,Humanoid (Goblinoid),LE,13,45,30,13,12,14,16,13,11,,Arcana,Darkvision 60,"Common, Goblin",4.00
+371,Hobgoblin Iron Shadow,Medium,Humanoid (Goblinoid),LE,15,32,40,14,16,15,14,15,11,,"Acrobatics, Athletics, Stealth",Darkvision 60,"Common, Goblin",2.00
+372,Hobgoblin Warlord,Medium,Humanoid,LE,20,97,30,16,14,16,14,11,15,"INT, WIS, CHA",,Darkvision 60,"Common, Goblin",6.00
+373,Homunculus,Tiny,Construct,N,13,5,"20, fly 40",4,15,11,10,10,7,,,Darkvision 60,Creator,0.00
+374,Hook Horror,Large,Monstrosity,N,15,75,"30, climb 30",18,10,15,6,12,7,,Perception,"Blindsight 60, darkvision 10",,3.00
+375,Howler,Large,Fiend,CE,16,90,40,17,16,15,5,20,6,,Perception,Darkvision 60,Abyssal,8.00
+376,Howling Hatred Initiate,Medium,Humanoid (Human),NE,13,9,30,10,15,10,10,9,11,,"Deception, Religion, Stealth",Normal,Common,0.13
+377,Howling Hatred Priest,Medium,Humanoid (Human),NE,15,45,30,12,16,10,14,10,14,,"Acrobatics, Intimidation, Religion",Normal,"Auran, Common",2.00
+378,"Howling Hatred, Feathergale Knight",Medium,Humanoid (Human),LE,16,33,30,14,14,12,11,10,14,,"Animal Handling, History",Normal,"Auran, Common",1.00
+379,"Howling Hatred, Hurricane",Medium,Humanoid (Human),LE,14,33,45,12,16,13,10,12,10,,Acrobatics,Normal,"Auran, Common",2.00
+380,"Howling Hatred, Skyweaver",Medium,Humanoid (Human),CE,12,44,30,8,14,12,11,10,16,,"Deception, Persuasion",Normal,"Auran, Common",3.00
+381,Hulking Crab,Huge,Beast,U,17,76,"20, swim 30",19,8,16,3,11,3,,Stealth,Blindsight 30,,5.00
+382,Hydra,Huge,Monstrosity,U,15,172,"30, swim 30",20,12,20,2,10,7,,Perception,Darkvision 60,,8.00
+383,Ice Toad,Medium,Monstrosity,N,12,32,"30, swim 30",13,10,14,8,10,6,,Perception,Darkvision 60,Own,1.00
+384,"Inevitable, Marut",Large,Construct,LN,22,432,"40, fly 30",28,12,26,19,15,18,"INT, WIS, CHA","Insight, Intimidation, Perception",Darkvision 60,All,25.00
+385,Intellect Devourer,Tiny,Aberration,LE,12,21,40,6,14,13,12,11,10,,"Perception, Stealth",Blindsight 60,"Deep Speech, telepathy 60",2.00
+386,Invisible Stalker,Medium,Elemental,N,14,104,"50, fly 50",16,19,14,10,15,11,,"Perception, Stealth",Darkvision 60,"Auran, Common",6.00
+387,Ixitxachitl,Small,Aberration,CE,15,18,swim 30,12,16,13,12,13,7,,,Darkvision 60,"Abyssal, Own",0.25
+388,"Ixitxachitl, Vampiric",Medium,Aberration,CE,16,44,swim 30,14,18,13,12,13,7,,,Darkvision 60,"Abyssal, Own",2.00
+389,Jackalwere,Medium,Humanoid,CE,12,18,40,11,15,11,13,11,10,,"Deception, Perception, Stealth",Normal,Common,0.50
+390,Jaculi,Large,Beast,U,14,16,"30, climb 20",15,14,11,2,8,3,,"Athletics, Perception, Stealth",Blindsight 30,,0.50
+391,Kalka-Kylla,Large,Monstrosity,N,15,85,"30, swim 30",17,12,16,15,16,12,,"Deception, Insight, Stealth",Blindsight 30,Olman,3.00
+392,Kamadan,Large,Monstrosity,U,13,67,30,16,16,14,3,14,10,,"Perception, Stealth",Normal,,4.00
+393,Kelpie,Medium,Plant,NE,14,67,"10, swim 30",14,14,16,7,12,10,,"Perception, Stealth",Blindsight 60,"Common, Sylvan",4.00
+394,Kenku,Medium,Humanoid,CN,13,13,30,10,16,10,11,10,10,,"Deception, Perception, Stealth",Normal,"Auran, Common",0.25
+395,Ki-Rin,Huge,Celestial,LG,20,152,"60, fly 120",21,16,16,19,20,20,,"Perception, Insight, Religion","Blindsight 30, darkvision 120","All, telepathy 120",12.00
+396,Kobold,Small,Humanoid,LE,12,5,30,7,15,9,8,7,8,,,Darkvision 60,"Common, Draconic",0.13
+397,Kobold Dragonshield,Small,Humanoid (Kobold),LE,15,44,20,12,15,14,8,9,10,,Perception,Darkvision 60,"Common, Draconic",1.00
+398,Kobold Inventor,Small,Humanoid (Kobold),LE,12,13,30,7,15,12,8,7,8,,Perception,Darkvision 60,"Common, Draconic",0.25
+399,Kobold Scale Sorcerer,Small,Humanoid (Kobold),LE,15,27,30,7,15,14,10,9,14,,"Arcana, Medicine",Darkvision 60,"COmmon, Draconic",1.00
+400,"Kobold, Winged",Small,Humanoid,LE,13,7,"30, fly 30",7,16,9,8,7,8,,,Darkvision 60,"Common, Draconic",0.25
+401,Korred,Small,Fey,CN,17,102,"30, burrow 30",23,14,20,10,15,9,,"Athletics, Perception, Stealth","Darkvision 120, tremorsense 120","Dwarvish, Gnomish, Sylvan, Terran, Undercommon",7.00
+402,Kraken,Gargantuan,Monstrosity,CE,18,472,"20, swim 60",30,11,25,22,18,20,"STR, DEX, CON, INT, WIS",,Truesight 120,"Abyssal, Celestial, Infernal, Primordial, telepathy 120",23.00
+403,"Kraken, Malformed",Huge,Monstrosity,CE,17,172,"20, swim 40",25,11,20,11,15,15,"STR, CON, INT, WIS, CHA",,Truesight 60,"Common, telepathy 60",10.00
+404,Kruthik Hive Lord,Large,Monstrosity,U,20,102,"40, burrow 20, climb 40",19,16,17,10,14,10,,,"Darkvision 60, tremorsense 60",Own,5.00
+405,"Kruthik, Adult",Medium,Monstrosity,U,18,39,"40, burrow 20, climb 40",15,16,15,7,12,8,,,"Darkvision 60, tremorsense 60",Own,2.00
+406,"Kruthik, Young",Small,Monstrosity,U,16,9,"30, burrow 10, climb 30",13,16,13,4,10,6,,,"Darkvision 30, tremorsense 60",Own,0.13
+407,Kuo-Toa,Medium,Humanoid,NE,13,13,"30, swim 30",13,10,11,11,10,8,,Perception,Darkvision 120,Undercommon,0.25
+408,Kuo-Toa Archpriest,Medium,Humanoid,NE,13,97,"30, swim 30",16,14,16,13,16,14,,"Perception, Religion",Darkvision 120,Undercommon,6.00
+409,Kuo-Toa Whip,Medium,Humanoid,NE,11,65,"30, swim 30",14,10,14,12,14,11,,"Perception, Religion",Darkvision 120,Undercommon,1.00
+410,Lamia,Large,Monstrosity,CE,13,97,30,16,13,15,14,15,16,,"Deception, Insight, Stealth",Darkvision 60,"Abyssal, Common",4.00
+411,Leucrotta,Large,Monstrosity,CE,14,67,50,18,14,15,9,12,6,,"Deception, Perception",Darkvision 60,"Abyssal, Gnoll",3.00
+412,Lich,Medium,Undead,ANY EVIL,17,135,30,11,16,16,20,14,16,"CON, INT, WIS","Arcana, History, Insight, Perception",Truesight 120,"Common, Any",21.00
+413,Lizard King/Queen,Medium,Humanoid,CE,15,78,"30, swim 30",17,12,15,11,11,15,"CON, WIS","Perception, Stealth, Survival",Darkvision 60,"Abyssal, Draconic",4.00
+414,Lizardfolk,Medium,Humanoid,N,15,22,"30, swim 30",15,10,13,7,12,7,,"Perception, Stealth, Survival",Normal,Draconic,0.50
+415,Lizardfolk Shaman,Medium,Humanoid,N,13,27,"30, swim 30",15,10,13,10,15,8,,"Perception, Stealth, Survival",Normal,Draconic,2.00
+416,"Lycanthrope, Werebear",Medium,Humanoid,NG,11,135,"40, climb 30",19,10,17,11,12,12,,Perception,Normal,Common,5.00
+417,"Lycanthrope, Wereboar",Medium,Humanoid,NE,11,78,40,17,10,15,10,11,8,,Perception,Normal,Common,4.00
+418,"Lycanthrope, Wererat",Medium,Humanoid,LE,12,33,30,10,15,12,11,10,8,,"Perception, Stealth",Darkvision 60,Common,2.00
+419,"Lycanthrope, Wereraven",Medium,"Humanoid (Human)
+Humanoid (Shapechanger)",LG,12,31,30,10,15,11,13,15,14,,"Insight, Perception",Normal,Common,2.00
+420,"Lycanthrope, Weretiger",Medium,Humanoid,N,12,120,40,17,15,16,10,13,11,,"Perception, Stealth",Darkvision 60,Common,4.00
+421,"Lycanthrope, Werewolf",Medium,Humanoid,CE,12,58,40,15,13,14,10,11,10,,"Perception, Stealth",Normal,Common,3.00
+422,Magmin,Small,Elemental,CN,14,9,30,7,15,12,8,11,10,,,Darkvision 60,Ignan,0.50
+423,Manticore,Large,Monstrosity,LE,14,68,"30, fly 50",17,16,17,7,12,8,,,Darkvision 60,Common,3.00
+424,Mantrap,Large,Plant,U,12,45,5,15,14,12,1,10,2,,,Tremorsense 30,,1.00
+425,Meazel,Medium,Humanoid (Meazel),NE,13,35,30,8,17,9,14,13,10,,"Perception, Stealth",Darkvision 120,Common,1.00
+426,Medusa,Medium,Monstrosity,LE,15,127,30,10,15,16,12,13,15,,"Deception, Insight, Perception, Stealth",Darkvision 60,Common,6.00
+427,Meenlock,Small,Fey,NE,15,31,30,7,15,12,11,10,8,,"Perception, Stealth, Survival",Darkvision 120,Telepathy 120,2.00
+428,"Mephit, Dust",Small,Elemental,NE,12,17,"30, fly 30",5,14,10,9,11,10,,"Perception, Stealth",Darkvision 60,"Auran, Terran",0.50
+429,"Mephit, Ice",Small,Elemental,NE,11,21,"30, fly 30",7,13,10,9,11,12,,"Perception, Stealth",Darkvision 60,"Aquan, Auran",0.50
+430,"Mephit, Magma",Small,Elemental,NE,11,22,"30, fly 30",8,12,12,7,10,10,,Stealth,Darkvision 60,"Ignan, Terran",0.50
+431,"Mephit, Mud",Small,Elemental,NE,11,27,"20, fly 20, swim 20",8,12,12,9,11,7,,Stealth,Darkivision 60,"Aquan, Terran",0.25
+432,"Mephit, Smoke",Small,Elemental,NE,12,22,"30, fly 30",6,14,12,10,10,11,,"Perception, Stealth",Darkvision 60,"Auran, Ignan",0.25
+433,"Mephit, Steam",Small,Elemental,NE,10,21,"30, fly 30",5,11,10,11,10,12,,,Darkvision 60,"Aquan, Ignan",0.25
+434,Merfolk,Medium,Humanoid,N,11,11,"10, swim 40",10,13,12,11,11,12,,Perception,Normal,"Aquan, Common",0.13
+435,Merrow,Large,Monstrosity,CE,13,45,"10, swim 40",18,10,15,8,10,9,,"Death Burst, Innate Spellcasting",Darkvision 60,"Abyssal, Aquan",2.00
+436,Mimic,Medium,Monstrosity,N,12,58,15,17,12,15,5,13,8,,Stealth,Darkvision 60,,2.00
+437,Mind Flayer,Medium,Aberration,LE,15,71,30,11,12,12,19,17,17,"INT, WIS, CHA","Arcana, Deception, Insight, Perception, Persuasion, Stealth","Darkvision 120,","Deep Speech, Undercommon, telepathy 120",7.00
+438,Mind Flayer Lich (Illithilich),Medium,Undead,ANY EVIL,17,135,30,11,16,16,20,14,16,"CON, INT, WIS","Arcana, History, Insight, Perception",Truesight 120,"Common, Any, Deep Speech, Undercommon, telepathy 120",22.00
+439,"Mind Flayer, Alhoon",Medium,Undead,ANY EVIL,15,120,30,11,12,16,19,17,17,"CON, INT, WIS, CHA","Arcana, Deception, History, Insight, Perception, Stealth",Truesight 120,"Deep Speech, Undercommon, telepathy 120",10.00
+440,"Mind Flayer, Elder Brain",Large,Aberration,LE,10,210,"5, swim 10",15,10,20,21,19,24,"INT, WIS, CHA","Arcana, Deception, Insight, Intimidation, Persuasion",Blindsight 120,"Common, Deep SPeech, Undercommon, telepathy 5 miles",14.00
+441,"Mind Flayer, Ulitharid",Large,Aberration,LE,15,127,30,15,12,15,21,19,21,"INT, WIS, CHA","Arcana, Insight, Perception, Stealth",Darkvision 120,"Deep Speech, Undercommon, telepathy 2 miles",9.00
+442,Mindwitness,Large,Aberration,LE,15,75,fly 20,10,14,14,15,15,10,"INT, WIS",Perception,Darkvision 120,"Deep Speech, Undercommon, telepathy 600",5.00
+443,Minotaur,Large,Monstrosity,CE,14,76,40,18,11,16,6,16,9,,Perception,Darkvision 60,Abyssal,3.00
+444,"Misc. Creature, Ape",Medium,Beast,U,12,19,"30, climb 30",16,14,14,6,12,7,,"Athletics, Perception",Normal,,0.50
+445,"Misc. Creature, Awakened Shrub",Small,Plant,U,9,10,20,3,8,11,10,10,6,,,Normal,Creator,0.00
+446,"Misc. Creature, Awakened Tree",Huge,Plant,U,13,59,20,19,6,15,10,10,7,,,Normal,Creator,2.00
+447,"Misc. Creature, Axe Beak",Large,Beast,U,11,19,50,14,12,12,2,10,5,,,Normal,,0.25
+448,"Misc. Creature, Baboon",Small,Beast,U,12,3,"30, climb 30",8,14,11,4,12,6,,,Normal,,0.00
+449,"Misc. Creature, Badger",Tiny,Beast,U,10,3,"20, burrow 5",4,11,12,2,12,5,,,Darkvision 30,,0.00
+450,"Misc. Creature, Bat",Tiny,Beast,U,12,1,"5, fly 30",2,15,8,2,12,4,,,Blindsight 60,,0.00
+451,"Misc. Creature, Black Bear",Medium,Beast,U,11,19,"40, climb 30",15,10,14,2,12,7,,Perception,Normal,,0.50
+452,"Misc. Creature, Blink Dog",Medium,Fey,LG,13,22,40,12,17,12,10,13,11,,"Perception, Stealth",Normal,"Own, Sylvan",0.25
+453,"Misc. Creature, Blood Hawk",Small,Beast,U,12,7,"10, fly 60",6,14,10,3,14,5,,Perception,Normal,,0.13
+454,"Misc. Creature, Boar",Medium,Beast,U,11,11,40,13,11,12,2,9,5,,,Normal,,0.25
+455,"Misc. Creature, Brown Bear",Large,Beast,U,11,34,"40, climb 30",19,10,16,2,13,7,,Perception,Normal,,1.00
+456,"Misc. Creature, Camel",Large,Beast,U,9,15,50,16,8,14,2,8,5,,,Normal,,0.13
+457,"Misc. Creature, Cat",Tiny,Beast,U,12,2,"40, climb 30",3,15,10,3,12,7,,"Perception, Stealth",Normal,,0.00
+458,"Misc. Creature, Constrictor Snake",large,Beast,U,12,13,"30, swim 30",15,14,12,1,10,3,,,Blindsight 10,,0.25
+459,"Misc. Creature, Crab",Tiny,Beast,U,11,2,"20, swim 20",2,11,10,1,8,2,,Stealth,Blindsight 30,,0.00
+460,"Misc. Creature, Crocodile",Large,Beast,U,12,19,"20, swim 30",15,10,13,2,10,5,,Stealth,Normal,,0.50
+461,"Misc. Creature, Death Dog",Medium,Monstrosity,NE,12,39,40,15,14,14,3,13,6,,"Perception, Stealth",Darkvision 120,,1.00
+462,"Misc. Creature, Deer",Medium,Beast,U,13,4,50,11,16,11,2,14,5,,,Normal,,0.00
+463,"Misc. Creature, Dire Wolf",Large,Beast,U,14,37,50,17,15,15,3,12,7,,"Perception, Stealth",Normal,,1.00
+464,"Misc. Creature, Draft Horse",Large,Beast,U,10,19,40,18,10,12,2,11,7,,,Normal,,0.25
+465,"Misc. Creature, Eagle",Small,Beast,U,12,3,"10, fly 60",6,15,10,2,14,7,,Perception,Normal,,0.00
+466,"Misc. Creature, Elephant",Huge,Beast,U,12,76,40,22,9,17,3,11,6,,,Normal,,4.00
+467,"Misc. Creature, Elk",Large,Beast,U,10,13,50,16,10,12,2,10,6,,,Normal,,0.25
+468,"Misc. Creature, Flying Snake",Tiny,Beast,U,14,5,"30, fly 60, swim 30",4,18,11,2,12,5,,,Blindsight 10,,0.13
+469,"Misc. Creature, Frog",Tiny,Beast,U,11,1,"20, swim 20",1,13,8,1,8,3,,"Perception, Stealth",Darkvision 30,,0.00
+470,"Misc. Creature, Giant Ape",Huge,Beast,U,12,157,"40, climb 40",23,14,18,7,12,7,,"Athletics, Perception",Normal,,7.00
+471,"Misc. Creature, Giant Badger",Medium,Beast,U,10,13,"30, burrow 10",13,10,15,2,12,5,,,Darkvision 30,,0.25
+472,"Misc. Creature, Giant Bat",Large,Beast,U,13,22,"10, fly 60",15,16,11,2,12,6,,,Blindsight 60,,0.25
+473,"Misc. Creature, Giant Boar",Large,Beast,U,12,42,40,17,10,16,2,7,5,,,Normal,,2.00
+474,"Misc. Creature, Giant Centipede",small,Beast,U,13,4,30,5,14,12,1,7,3,,,Blindsight 30,,0.25
+475,"Misc. Creature, Giant Constrictor Snake",Huge,Beast,U,12,60,"30, swim 30",19,14,12,1,10,3,,Perception,Blindsight 10,,2.00
+476,"Misc. Creature, Giant Crab",Medium,Beast,U,15,13,"30, swim 30",13,15,11,1,9,3,,Stealth,Blindsight 30,,0.13
+477,"Misc. Creature, Giant Crocodile",Huge,Beast,U,14,85,"30, swim 50",21,9,17,2,10,7,,Stealth,Normal,,5.00
+478,"Misc. Creature, Giant Eagle",Large,Beast,NG,13,26,"10, fly 80",16,17,13,8,14,10,,Perception,Normal,"Own, Common, Auran",1.00
+479,"Misc. Creature, Giant Elk",Huge,Beast,U,14,42,60,19,16,14,7,14,10,,Perception,Normal,"Own, Common, Elvish, Sylvan",2.00
+480,"Misc. Creature, Giant Fire Beetle",small,Beast,U,13,4,30,8,10,12,1,7,3,,,Blindsight 30,,0.00
+481,"Misc. Creature, Giant Frog",Medium,Beast,U,11,18,"30, swim 30",12,13,11,2,10,3,,"Perception, Stealth",Darkvision 30,,0.25
+482,"Misc. Creature, Giant Goat",Large,Beast,U,11,19,40,17,11,12,3,12,6,,,Normal,,0.50
+483,"Misc. Creature, Giant Hyena",Large,Beast,U,12,45,50,16,14,14,2,12,7,,Perception,Normal,,1.00
+484,"Misc. Creature, Giant Lizard",Large,Beast,U,12,19,"30, climb 30",15,12,13,2,10,5,,,Darkvision 30,,0.25
+485,"Misc. Creature, Giant Octopus",Large,Beast,U,11,52,"10, swim 60",17,13,13,4,10,4,,"Perception, Stealth",Darkvision 60,,1.00
+486,"Misc. Creature, Giant Owl",Large,Beast,N,12,19,"5, fly 60",13,15,12,8,13,10,,"Perception, Stealth",Darkvision 120,"Own, Common, Elvish, Sylvan",0.25
+487,"Misc. Creature, Giant Poisonous Snake",Medium,Beast,U,14,11,"30, swim 30",10,18,13,2,10,3,,Perception,Blindsight 10,,0.25
+488,"Misc. Creature, Giant Rat",Small,Beast,U,12,7,30,7,15,11,2,10,4,,,Darkvision 60,,0.13
+489,"Misc. Creature, Giant Scorpion",Large,Beast,U,15,52,40,15,13,15,1,9,3,,,Blindsight 60,,3.00
+490,"Misc. Creature, Giant Sea Horse",Large,Beast,U,13,16,swim 40,12,15,11,2,12,5,,,Normal,,0.50
+491,"Misc. Creature, Giant Shark",Huge,Beast,U,13,126,swim 50,23,11,21,1,10,5,,Perception,Blindsight 60,,5.00
+492,"Misc. Creature, Giant Spider",Large,Beast,U,14,26,"30, climb 30",14,16,12,2,11,4,,Stealth,"Blindsight 10, darkvision 60",,1.00
+493,"Misc. Creature, Giant Toad",Large,Beast,U,11,39,"20, swim 40",15,13,13,2,10,3,,,Darkvision 30,,1.00
+494,"Misc. Creature, Giant Vulture",Large,Beast,NE,10,22,"10, fly 60",15,10,15,6,12,7,,Perception,Normal,Common,1.00
+495,"Misc. Creature, Giant Wasp",Medium,Beast,U,12,13,"10, fly 50",10,14,10,1,10,3,,,Normal,,0.50
+496,"Misc. Creature, Giant Weasel",Medium,Beast,U,13,9,40,11,16,10,4,12,5,,"Perception, Stealth",Darkvision 60,,0.13
+497,"Misc. Creature, Giant Wolf Spider",Medium,Beast,U,13,11,"40, climb 40",12,16,13,3,12,4,,"Perception, Stealth","Blindsight 10, darkvision 60",,0.25
+498,"Misc. Creature, Goat",Medium,Beast,U,10,4,40,12,10,11,2,10,5,,,Normal,,0.00
+499,"Misc. Creature, Hawk",Tiny,Beast,U,13,1,"10, fly 60",5,16,8,2,14,6,,Perception,Normal,,0.00
+500,"Misc. Creature, Hunter Shark",Large,Beast,U,12,45,swim 40,18,13,15,1,10,4,,Perception,Blindsight 30,,2.00
+501,"Misc. Creature, Hyena",Medium,Beast,U,11,5,50,11,13,12,2,12,5,,Perception,Normal,,0.00
+502,"Misc. Creature, Jackal",Small,Beast,U,12,3,40,8,15,11,3,12,6,,Perception,Normal,,0.00
+503,"Misc. Creature, Killer Whale",Huge,Beast,U,12,90,swim 60,19,10,13,3,12,7,,Perception,Blindsight 120,,3.00
+504,"Misc. Creature, Lion",Large,Beast,U,12,26,50,17,15,13,3,12,8,,"Perception, Stealth",Normal,,1.00
+505,"Misc. Creature, Lizard",Tiny,Beast,U,10,2,"20, climb 20",2,11,10,1,8,3,,,Darkvision 30,,0.00
+506,"Misc. Creature, Mammoth",Huge,Beast,U,13,126,40,24,9,21,3,11,6,,,Normal,,6.00
+507,"Misc. Creature, Mastiff",Medium,Beast,U,12,5,40,13,14,12,3,12,7,,Perception,Normal,,0.13
+508,"Misc. Creature, Mule",Medium,Beast,U,10,11,40,14,10,13,2,10,5,,,Normal,,0.13
+509,"Misc. Creature, Octopus",Small,Beast,U,12,3,"5, swim 30",4,15,11,3,10,4,,"Perception, Stealth",Darkvision 30,,0.00
+510,"Misc. Creature, Owl",Tiny,Beast,U,11,1,"5, fly 60",3,13,8,2,12,7,,"Perception, Stealth",Darkvision 120,,0.00
+511,"Misc. Creature, Panther",Medium,Beast,U,12,13,"50, climb 40",14,15,10,3,14,7,,"Perception, Stealth",Normal,,0.25
+512,"Misc. Creature, Phase Spider",Large,Monstrosity,U,13,32,"30, climb 30",15,15,12,6,10,6,,Stealth,Darkvision 60,,3.00
+513,"Misc. Creature, Poisonous Snake",Tiny,Beast,U,13,13,"30, swim 30",2,16,11,1,10,3,,,Blindsight 10,,0.13
+514,"Misc. Creature, Polar Bear",Large,Beast,U,12,42,"40, swim 30",20,10,16,2,13,7,,Perception,Normal,,2.00
+515,"Misc. Creature, Pony",Medium,Beast,U,10,11,40,15,10,13,2,11,7,,,Normal,,0.13
+516,"Misc. Creature, Quipper",Tiny,Beast,U,13,1,swim 40,2,16,9,1,7,2,,,Darkvision 60,,0.00
+517,"Misc. Creature, Rat",Tiny,Beast,U,10,1,20,2,11,9,2,10,4,,,Darkvision 30,,0.00
+518,"Misc. Creature, Raven",Tiny,Beast,U,12,1,"10, fly 50",2,14,8,2,12,6,,Perception,Normal,,0.00
+519,"Misc. Creature, Reef Shark",Medium,Beast,U,12,22,swim 40,14,13,13,1,10,4,,Perception,Blindsight 30,,0.50
+520,"Misc. Creature, Rhinoceros",Large,Beast,U,11,45,40,21,8,15,2,12,6,,,Normal,,2.00
+521,"Misc. Creature, Riding Horse",Large,Beast,U,10,13,60,16,10,12,2,11,7,,,Normal,,0.25
+522,"Misc. Creature, Saber-Toothed Tiger",Large,Beast,U,12,52,40,18,14,15,3,12,8,,"Perception, Stealth",Normal,,2.00
+523,"Misc. Creature, Scorpion",Tiny,Beast,U,11,1,10,2,11,8,1,8,2,,,Normal,,0.00
+524,"Misc. Creature, Sea Horse",Tiny,Beast,U,11,1,swim 20,1,12,8,1,10,2,,,Normal,,0.00
+525,"Misc. Creature, Spider",Tiny,Beast,U,12,1,"20, climb 20",2,14,8,1,10,2,,Stealth,Darkvision 30,,0.00
+526,"Misc. Creature, Swarm of Bats",Medium,Beast,U,12,22,fly 30,5,15,10,2,12,4,,,Blindsight 60,,0.25
+527,"Misc. Creature, Swarm of Insects",Medium,Beast,U,12,22,"20, climb 20",3,13,10,1,7,1,,,Blindsight 10,,0.50
+528,"Misc. Creature, Swarm of Poisonous Snakes",Medium,Beast,U,14,36,"30, swim 30",8,18,11,1,10,3,,,Blindsight 10,,2.00
+529,"Misc. Creature, Swarm of Quippers",Medium,Beast,U,13,28,swim 40,13,16,9,1,7,2,,,Normal,,1.00
+530,"Misc. Creature, Swarm of Rats",Medium,Beast,U,10,24,30,9,11,9,2,10,3,,,Normal,,0.25
+531,"Misc. Creature, Swarm of Ravens",Medium,Beast,U,12,24,"10, fly 50",6,14,8,3,12,6,,Perception,Normal,,0.25
+532,"Misc. Creature, Tiger",Large,Beast,U,12,37,40,17,15,14,3,12,8,,"Perception, Stealth",Darkvision 60,,1.00
+533,"Misc. Creature, Vulture",Medium,Beast,U,10,5,"10, fly 50",7,10,13,2,12,4,,Perception,Normal,,0.00
+534,"Misc. Creature, Warhorse",Large,Beast,U,11,19,60,18,12,13,2,12,7,,,Normal,,0.50
+535,"Misc. Creature, Weasel",Tiny,Beast,U,13,1,30,3,16,8,2,12,3,,"Perception, Stealth",Normal,,0.00
+536,"Misc. Creature, Winter Wolf",Large,Monstrosity,NE,13,75,50,18,13,14,7,12,8,,"Perception, Stealth",Normal,"Common, Giant, Own",3.00
+537,"Misc. Creature, Wolf",Medium,Beast,U,13,11,40,12,15,12,3,12,6,,"Perception, Stealth",Normal,,0.25
+538,"Misc. Creature, Worg",Large,Monstrosity,NE,13,26,50,16,13,13,7,11,8,,Perception,Darkvision 60,"Goblin, Own",0.50
+539,"Modron, Duodrone",Medium,Construct,LN,15,11,30,11,13,12,6,10,7,,,Truesight 120,Modron,0.25
+540,"Modron, Monodrone",Medium,Construct,LN,15,5,"30, fly 30",1,13,12,4,10,5,,,Truesight 120,Modron,0.13
+541,"Modron, Pentadrone",Large,Construct,LN,16,32,40,15,14,12,10,10,13,,Perception,Truesight 120,Modron,2.00
+542,"Modron, Quadrone",Medium,Construct,LN,16,22,"30, fly 30",12,14,12,10,10,11,,Perception,Truesight 120,Modron,1.00
+543,"Modron, Tridrone",Medium,Construct,LN,15,16,30,12,13,12,9,10,9,,,Truesight 120,Modron,0.50
+544,Mongrelfolk,Medium,Humanoid (Mongrelfolk),ANY,11,26,20,12,9,15,9,10,6,,"Deception, Perception, Stealth",Normal,Common,0.25
+545,Morkoth,Medium,Aberration,CE,17,130,"25, swim 50",14,14,14,20,15,13,"DEX, INT, WIS","Arcana, History, Perception, Stealth","Blindsight 30, darkvision 120",Telepathy 120,11.00
+546,Mummy,Medium,Undead,LE,11,58,20,16,8,15,6,10,12,WIS,,Darkvision 60,Any,3.00
+547,Mummy Lord,Medium,Undead,LE,17,97,20,18,10,17,11,18,16,"CON, INT, WIS, CHA","History, Religion",Darkvision 60,Any,15.00
+548,Myconid Adult,Medium,Plant,LN,12,22,20,10,10,12,10,13,7,,,Darkvision 120,,0.50
+549,Myconid Sovereign,Large,Plant,LN,13,60,30,12,10,14,13,15,10,,,Darkvision 120,,2.00
+550,Myconid Sprout,Small,Plant,LN,10,7,10,8,10,10,8,11,5,,,Darkvision 120,,0.00
+551,Naergoth Bladelord,Medium,Undead,NE,18,135,30,20,12,16,12,14,16,"DEX, WIS","Perception, Stealth",Darkvision 60,"Common, Draconic",11.00
+552,"Naga, Bone",Large,Undead,LE,15,58,30,15,16,12,15,15,16,,,Darkvision 60,"Common, Any",4.00
+553,"Naga, Guardian",Large,Monstrosity,LG,18,127,40,19,18,16,16,19,18,"DEX, CON, INT, WIS, CHA",,Darkvision 60,"Celestial, Common",10.00
+554,"Naga, Spirit",Large,Monstrosity,CE,15,75,40,18,17,14,16,15,16,"DEX, CON, INT, WIS, CHA",,Darkvision 60,Abyssal Common,8.00
+555,Nagpa,Medium,Humanoid (Nagpa),NE,19,187,30,9,15,12,23,18,21,"INT, WIS, CHA","Arcana, Deception, History, Insight, Perception",Truesight 120,"Common, Any",17.00
+556,Neogi,Small,Aberration,LE,15,33,"30, climb 30",6,16,14,13,12,15,,"Intimidation, Perception",Darkvision 60,"Common, Deep SPeech, Undercommon",3.00
+557,Neogi Hatchling,Tiny,Aberration,LE,11,7,"20, climb 20",3,13,10,6,10,9,,,Darkvision 60,,0.13
+558,Neogi Master,Medium,Aberration,LE,15,71,"30, climb 30",6,16,14,16,12,18,WIS,"Arcana, Deception, Intimidation, Perception, Persuasion",Darkvision 120,"Common, Deep Speech, Undercommon",4.00
+559,Neothelid,Gargantuan,Aberration,CE,16,325,30,27,7,21,3,16,12,"INT, WIS, CHA",,Blindsight 120,,13.00
+560,Nereid,Medium,Fey,ANY CHAOTIC,13,44,"30, swim 60",10,17,12,13,14,16,,"Acrobatics, Nature, Stealth, Survival",Darkvision 60,"Aquan, Common, Elvish, Sylvan",2.00
+561,Nightmare,Large,Fiend,NE,13,68,"60, fly 90",18,15,16,10,13,15,,,Normal,"Abyssal, Common, Infernal",3.00
+562,Nightwalker,Huge,Undead,CE,14,297,"40, fly 40",22,19,24,6,9,8,CON,,Darkvision 120,,20.00
+563,Nilbog,Small,Humanoid (Goblinoid),CE,13,7,30,8,14,10,10,8,15,,Stealth,Darkvision 60,"COmmon, Goblin",1.00
+564,Nothic,Medium,Aberration,NE,15,45,30,14,16,16,13,10,8,,"Arcana, Insight, Perception, Stealth",Truesight 120,Undercommon,2.00
+565,"NPC, Abjurer",Medium,Humanoid (Any Race),ANY,12,84,30,9,14,14,18,12,11,"INT, WIS","Arcana, History",Normal,Any,9.00
+566,"NPC, Acolyte",Medium,Humanoid,ANY,10,9,30,10,10,10,10,14,11,,"Medicine, Religion",Normal,Any,0.25
+567,"NPC, Apprentice Wizard",Medium,Humanoid (Any Race),ANY,10,9,30,10,10,10,14,10,11,,"Arcana, History",Normal,Any,0.25
+568,"NPC, Archdruid",Medium,Humanoid (Any Race),ANY,16,132,30,10,14,12,12,20,11,"INT, WIS","Medicine, Nature, Perception",Normal,"Druidic, Any",12.00
+569,"NPC, Archer",Medium,Humanoid (Any Race),ANY,16,75,30,11,18,16,11,13,10,,"Acrobatics, Perception, Stealth",Normal,Any,3.00
+570,"NPC, Archmage",Medium,Humanoid,ANY,12,99,30,10,14,12,20,15,16,"INT, WIS","Arcana, History",Normal,Any,12.00
+571,"NPC, Assassin",Medium,Humanoid,NOT GOOD,15,78,30,11,16,14,13,11,10,"DEX, INT","Acrobatics, Deception, Perception, Stealth",Normal,"Thieves' Cant, Any",8.00
+572,"NPC, Bandit",Medium,Humanoid,NOT LAWFUL,12,11,30,11,12,12,10,10,10,,,Normal,Any,0.13
+573,"NPC, Bandit Captain",Medium,Humanoid,NOT LAWFUL,15,65,30,15,16,14,14,11,14,"STR, DEX, WIS","Athletics, Deception",Normal,Any,2.00
+574,"NPC, Bard",Medium,Humanoid (Any Race),ANY,15,44,30,11,14,12,10,13,14,"DEX, WIS","Acrobatics, Perception, Performance",Normal,Any,2.00
+575,"NPC, Berserker",Medium,Humanoid,ANY CHAOTIC,13,67,30,16,12,17,9,11,9,,,Normal,Any,2.00
+576,"NPC, Blackguard",Medium,Humanoid (Any Race),NOT GOOD,18,153,30,18,11,18,11,14,15,"WIS, CHA","Athletics, Deception, Intimidation",Normal,Any,8.00
+577,"NPC, Champion",Medium,Humanoid (Any Race),ANY,18,143,30,20,15,14,10,14,12,"STR, CON","Athletics, Intimidation, Perception",Normal,Any,9.00
+578,"NPC, Commoner",Medium,Humanoid,ANY,10,4,30,10,10,10,10,10,10,,,Normal,Any,0.00
+579,"NPC, Conjurer",Medium,Humanoid (Any Race),ANY,12,40,30,9,14,11,17,12,11,"INT, WIS","Arcana, History",Normal,Any,6.00
+580,"NPC, Cult Fanatic",Medium,Humanoid,NOT GOOD,13,33,30,11,14,12,10,13,14,,"Deception, Persuasion, Religion",Normal,Any,2.00
+581,"NPC, Cultist",Medium,Humanoid,NOT GOOD,12,9,30,11,12,10,10,11,10,,"Deception, Religion",Normal,Any,0.13
+582,"NPC, Diviner",Medium,Humanoid (Any Race),ANY,12,67,30,9,14,11,18,12,11,"INT, WIS","Arcana, History",Normal,Any,8.00
+583,"NPC, Druid",Medium,Humanoid,ANY,11,27,30,10,12,13,12,15,11,,"Medicine, Nature, Perception",Normal,"Druidic, Any",2.00
+584,"NPC, Enchanter",Medium,Humanoid (Any Race),ANY,12,40,30,9,14,11,17,12,11,"INT, WIS","Arcana, History",Normal,Any,5.00
+585,"NPC, Evoker",Medium,Humanoid (Any Race),ANY,12,66,30,9,14,12,17,12,11,"INT, WIS","Arcana, History",Normal,Any,9.00
+586,"NPC, Gladiator",Medium,Humanoid,ANY,16,112,30,18,15,16,10,12,15,"STR, DEX, CON, INT, WIS","Athletics, Intimidation",Normal,Any,5.00
+587,"NPC, Guard",Medium,Humanoid,ANY,16,11,30,13,12,12,10,11,10,,Perception,Normal,Any,0.13
+588,"NPC, Illusionist",Medium,Humanoid (Any Race),ANY,12,38,30,9,14,13,16,11,12,"INT, WIS","Arcana, History",Normal,Any,3.00
+589,"NPC, Knight",Medium,Humanoid,ANY,18,52,30,16,11,14,11,11,15,"CON, WIS",,Normal,Any,3.00
+590,"NPC, Kraken Priest",Medium,Humanoid (Any Race),ANY,10,75,"30, swim 30",12,10,16,10,15,14,,Perception,Normal,Any,5.00
+591,"NPC, Mage",Medium,Humanoid,ANY,12,40,30,9,14,11,17,12,11,"INT, WIS","Arcana, History",Normal,Any,6.00
+592,"NPC, Martial Arts Adept",Medium,Humanoid (Any Race),ANY,16,60,40,11,17,13,11,16,10,,"Acrobatics, Insight, Stealth",Normal,Any,3.00
+593,"NPC, Master Thief",Medium,Humanoid (Any Race),ANY,16,84,30,11,18,14,11,11,12,"DEX, INT","Acrobatics, Athletics, Perception, Sleight of Hand, Stealth",Normal,"Any, Thieves' Cant",5.00
+594,"NPC, Necromancer",Medium,Humanoid (Any Race),ANY,12,66,30,9,14,12,17,12,11,"INT, WIS","Arcana, History",Normal,Any,9.00
+595,"NPC, Noble",Medium,Humanoid,ANY,15,9,30,11,12,11,12,14,16,,"Deception, Insight, Persuasion",Normal,Any,0.13
+596,"NPC, Priest",Medium,Humanoid,ANY,13,27,25,10,10,12,13,16,13,,"Medicine, Persuasion, Religion",Normal,Any,2.00
+597,"NPC, Scout",Medium,Humanoid,ANY,13,16,30,11,14,12,11,13,11,,"Nature, Perception, Stealth, Survival",Normal,Any,0.50
+598,"NPC, Spy",Medium,Humanoid,ANY,12,27,30,10,15,10,12,14,16,,"Deception, Insight, Investigation, Perception, Persuasion, Sleight of Hand, Stealth",Normal,Any,1.00
+599,"NPC, Swashbuckler",Medium,Humanoid (Any Race),NOT LAWFUL,17,66,30,12,18,12,14,11,15,,"Acrobatics, Athletics, Persuasion",Normal,Any,3.00
+600,"NPC, Thug",Medium,Humanoid,NOT GOOD,11,32,30,15,11,14,10,10,11,,Intimidation,Normal,Any,0.50
+601,"NPC, Transmuter",Medium,Humanoid (Any Race),ANY,12,40,30,9,14,11,17,12,11,"INT, WIS","Arcana, History",Normal,Any,5.00
+602,"NPC, Tribal Warrior",Medium,Humanoid,ANY,12,11,30,13,11,12,8,11,8,,,Normal,Any,0.13
+603,"NPC, Veteran",Medium,Humanoid,ANY,17,58,30,16,13,14,10,11,10,,"Athletics, Perception",Normal,Any,3.00
+604,"NPC, War Priest",Medium,Humanoid (Any Race),ANY,18,117,30,16,10,14,11,17,13,"CON, WIS","Intimidation, Religion",Normal,Any,9.00
+605,"NPC, Warlock of the Archfey",Medium,Humanoid (Any Race),ANY,11,49,30,9,13,11,11,12,18,"WIS, CHA","Arcana, Deception, nature, Persuasion",Normal,Any,4.00
+606,"NPC, Warlock of the Fiend",Medium,Humanoid (Any Race),ANY,12,78,30,10,14,15,12,12,18,"WIS, CHA","Arcana, Deception, Persuasion, Religion",Darkvision 60,Any,7.00
+607,"NPC, Warlock of the Great Old One",Medium,Humanoid (Any Race),ANY,12,91,30,9,14,15,12,12,18,"WIS, CHA","Arcana, History",Darkvision 60,"Any, telepathy 30",6.00
+608,"NPC, Warlord",Medium,Humanoid (Any Race),ANY,18,229,30,20,16,18,12,12,18,"STR, DEX, CON","Athletics, Intimidation, Perception, Persuasion",Normal,Any,12.00
+609,Oblex Spawn,Tiny,Ooze,LE,13,18,20,8,16,15,14,11,10,"INT, CHA",,Blindsight 60,,0.25
+610,"Oblex, Adult",Medium,Ooze,LE,14,75,20,8,19,16,19,12,15,"INT, CHA","Deception, Perception, Arcana, History, Nature, Religion",Blindsight 60,"Common, Any",5.00
+611,"Oblex, Elder",Huge,Ooze,LE,16,115,20,15,16,21,22,13,18,"INT, CHA","Arcana, Deception, History, Nature, Perception, Religion",Blindsight 60,"Common, Any",10.00
+612,Ogre,Large,Giant,CE,11,59,40,19,8,16,5,7,7,,,Darkvision 60,"Common, Giant",2.00
+613,Ogre Battering Ram,Large,Giant,CE,14,59,40,19,8,16,5,7,7,,,Darkvision 60,"Common, Giant",4.00
+614,Ogre Bolt Launcher,Large,Giant,CE,13,59,40,19,12,16,5,7,7,,,Darkvision 60,"Common, Giant",2.00
+615,Ogre Chain Brute,Large,Giant,CE,11,59,40,19,8,16,5,7,7,,,Darkvision 60,"Common, Giant",3.00
+616,Ogre Howdah,Large,Giant,CE,13,59,40,19,8,16,5,7,7,,,Darkvision 60,"Common, Giant",2.00
+617,"Ogre, Half",Large,Giant,ANY CHAOTIC,12,30,30,17,10,14,7,9,10,,,Darkvision 60,"Common, Giant",1.00
+618,Oni,Large,Giant,LE,16,110,"30, fly 30",19,11,16,14,12,15,"DEX, CON, WIS, CHA","Arcana, Deception, Perception",Darkvision 60,"Common, Giant",7.00
+619,Ooze Master,Huge,Undead,LE,9,138,"30, climb 30",16,1,20,17,10,16,"INT, WIS","Arcana, Insight",Blindsight 120,"Common, Primordial, Thayan",10.00
+620,"Ooze, Black Pudding",Large,Ooze,U,7,85,"20, climb 20",16,5,16,1,6,1,,,Blindsight 60,,4.00
+621,"Ooze, Gelatinous Cube",Large,Ooze,U,6,84,15,14,3,20,1,6,1,,,Blindsight 60,,2.00
+622,"Ooze, Gray",Medium,Ooze,U,8,22,"10, climb 10",12,6,16,1,6,2,,Stealth,Blindsight 60,,0.50
+623,"Ooze, Ochre Jelly",Large,Ooze,U,8,45,"10, climb 10",15,6,14,2,6,1,,,Blindsight 60,,2.00
+624,Orc,Medium,Humanoid,CE,13,15,30,16,12,16,7,11,10,,Intimidation,Darkvision 60,"Common, Orc",0.50
+625,Orc Blade of Ilneval,Medium,Humanoid (Orc),CE,18,60,30,17,11,17,10,12,14,WIS,"Perception, Insight, Intimidation",Darkvision 60,"Common, Orc",4.00
+626,Orc Claw of Luthic,Medium,Humanoid (Orc),CE,14,45,30,14,15,16,10,15,11,,"Intimidation, Medicine, Survival",Darkvision 60,"COmmon, Orc",2.00
+627,Orc Eye of Gruumsh,Medium,Humanoid,CE,16,45,30,16,12,16,9,13,12,,"Intimidation, Religion",Darkvision 60,"Common, Orc",2.00
+628,Orc Hand of Yurtrus,Medium,Humanoid (Orc),CE,12,30,30,12,11,16,11,14,9,,"Arcana, Intimidation, Medicine, Religion",Darkvision 60,"Common, Orc",2.00
+629,Orc Nurtured One of Yurtrus,Medium,Humanoid (Orc),CE,9,30,30,15,8,16,7,11,7,,,Darkvision 60,"Common, Orc",0.50
+630,Orc Red Fang of Shargaas,Medium,Humanoid (Orc),CE,15,52,30,11,16,15,9,11,9,,"Intimidation, Perception, Stealth",Darkvision 60,"Common, Orc",3.00
+631,Orc War Chief,Medium,Humanoid,CE,16,93,30,18,12,18,11,11,16,"STR, CON, WIS",Intimidation,Darkvision 60,"Common, Orc",4.00
+632,"Orc, Orog",Medium,Humanoid,CE,18,42,30,18,12,18,12,11,12,,"Intimidation, Survival",Darkvision 60,"Common, Orc",2.00
+633,"Orc, Tanarukk",Medium,"Fiend (Demon,Orc)",CE,14,95,30,18,13,20,9,9,9,,"Intimidation, Perception",Darkvision 60,"Abyssal, Common, Orc",5.00
+634,Otyugh,Large,Aberration,N,14,114,30,16,11,19,6,13,6,CON,,Darkvision 120,Own,5.00
+635,Owlbear,Large,Monstrosity,U,13,59,40,20,12,17,3,12,7,,Perception,Darkvision 60,,3.00
+636,Pegasus,Large,Celestial,CG,12,59,"60, fly 90",18,15,16,10,15,13,"DEX, WIS, CHA",Perception,Normal,"Celestial, Common, Elvish, Sylvan",2.00
+637,Peryton,Medium,Monstrosity,CE,13,33,"20, fly 60",16,12,13,9,12,10,,Perception,Normal,"Common, Elvish",2.00
+638,Phantom Warrior,Medium,Undead,ANY,16,45,30,16,11,16,8,10,15,,"Perception, Stealth",Darkvision 60,Any,3.00
+639,Piercer,Medium,Monstrosity,U,15,22,"5, climb 5",10,13,16,1,7,3,,Stealth,"Blindsight 30, darkvision 60",,0.50
+640,Pixie,Tiny,Fey,NG,15,1,"10, fly 30",2,20,8,10,14,15,,"Perception, Stealth",Normal,Sylvan,0.25
+641,"Prince of Apocalypse, Imix",Huge,Elemental,NE,17,325,"50, fly 50",19,24,22,15,16,23,"DEX, CON, CHA",,Blindsight 120,"Common, Ignan",19.00
+642,"Prince of Apocalypse, Ogremoch",Gargantuan,Elemental,NE,20,526,"50, burrow 50",26,11,28,11,15,22,"STR, CON, WIS",,"Blindsight 120, tremorsense 120","Common, Terran",20.00
+643,"Prince of Apocalypse, Olhydra",Huge,Elemental,NE,18,324,"50, swim 100",21,22,24,17,18,23,"STR, CON, WIS",,Blindsight 120,Aquan,18.00
+644,"Prince of Apocalypse, Yan-C-BIn",Huge,Elemental,NE,22,283,"50, fly 150",18,24,24,16,21,23,"DEX, WIS, CHA",,Blindsight 120,Auran,18.00
+645,Pseudodragon,Tiny,Dragon,NG,13,7,"15, fly 60",6,15,13,10,12,10,,"Perception, Stealth","Blindsight 10, darkvision 60","Common, Draconic",0.25
+646,Pterafolk,Large,Monstrosity,NE,12,26,"30, fly 50",15,13,12,9,10,11,,"Perception, Survival",Normal,Common,1.00
+647,Purple Worm,Gargantuan,Monstrosity,U,18,247,"50, burrow 30",28,7,22,1,8,4,"CON, WIS",,"Blindsight 30, tremorsense 60",,15.00
+648,"Purple Worm, Wormling",Large,Monstrosity,U,12,42,20,16,7,16,1,6,2,,,"Blindsight 30, tremorsense 30",,2.00
+649,Quaggoth,Medium,Humanoid,CN,13,45,"30, climb 30",17,12,16,6,12,7,,Athletics,Darkvision 120,Undercommon,2.00
+650,Quickling,Tiny,Fey,CE,16,10,120,4,23,13,10,12,7,,"Acrobatics, Sleight of Hand, Stealth, Perception",Darkvision 60,"Common, Sylvan",1.00
+651,Rakshasa,Medium,Fiend,LE,16,110,40,14,17,18,13,16,20,,"Deception, Insight",Darkvision 60,"Common, Infernal",13.00
+652,Redcap,Small,Fey,CE,13,45,25,18,13,18,10,12,9,,"Athletics, Perception",Darkvision 60,"Common, Sylvan",3.00
+653,Remorhaz,Huge,Monstrosity,U,17,195,"30, burrow 20",24,13,21,4,10,5,,,"Darkvision 60, tremorsense 60",,11.00
+654,"Remorhaz, Young",Large,Monstrosity,U,14,93,"30, burrow 20",18,13,17,3,10,4,,,"Darkvision 60, tremorsense 60",,5.00
+655,Retriever,Large,Construct,LE,19,210,"40, climb 40",22,16,20,3,11,4,"DEX, CON, WIS","Perception, Stealth","Blindsight 30, darkvision 60","Abyssal, Elvish, Undercommon",14.00
+656,Revenant,Medium,Undead,N,13,136,30,18,14,18,13,16,18,"STR, CON, WIS, CHA",,Darkvision 60,Any,5.00
+657,Roc,Gargantuan,Monstrosity,U,15,248,"20, fly 120",28,10,20,3,10,9,"DEX, CON, WIS, CHA",Perception,Normal,,11.00
+658,Roper,Large,Monstrosity,NE,20,93,"10, climb 10",18,8,17,7,16,6,,"Perception, Stealth",Darkvision 60,,5.00
+659,Rust Monster,Medium,Monstrosity,U,14,27,40,13,12,13,2,13,6,,,Darkvision 60,,0.50
+660,Sahuagin,Medium,Humanoid,LE,12,22,"30, swim 40",13,11,12,12,13,9,,Perception,Darkvision 120,Own,0.50
+661,Sahuagin Baron,Large,Humanoid,LE,16,76,"30, swim 50",19,15,16,14,13,17,"DEX, CON, INT, WIS",Perception,Darkvision 120,Own,5.00
+662,Sahuagin Priestess,Medium,Humanoid,LE,12,33,"30, swim 40",13,11,12,12,14,13,,"Perception, Religion",Darkvision 120,Own,2.00
+663,Salamander,Large,Elemental,NE,15,90,30,18,14,15,11,10,12,,,Darkvision 60,Ignan,5.00
+664,"Salamander, Fire Snake",Medium,Elemental,NE,14,22,30,12,14,11,7,10,8,,,Darkvision 60,Ignan,1.00
+665,"Salamander, Frost",Huge,Elemental,U,17,168,"60, burrow 40, climb 40",20,12,18,7,11,7,"CON, WIS",Perception,"Darkvision 60, tremorsense 60",Primordial,9.00
+666,Satyr,Medium,Fey,CN,14,31,40,12,16,11,12,10,14,,"Perception, Performance, Stealth",Normal,"Common, Elvish, Sylvan",0.50
+667,Scarecrow,Medium,Construct,CE,11,36,30,11,13,11,10,10,13,,,Darkvision 60,Creator,1.00
+668,Sea Lion,Large,Monstrosity,U,15,90,"10, swim 40",17,15,15,3,12,8,,"Perception, Stealth",Normal,,5.00
+669,Sea Spawn,Medium,Humanoid,NE,11,32,"20, swim 30",15,8,15,6,10,8,,,Darkvision 120,"Aquan, Common",1.00
+670,Shadar-Kai Gloom Weaver,Medium,Humanoid (Elf),N,14,104,30,11,18,14,15,12,18,"DEX, CON",,Darkvision 60,"Common, Elvish",9.00
+671,Shadar-Kai Shadow Dancer,Medium,Humanoid (Elf),N,15,71,30,12,16,13,11,12,12,"DEX, CHA",Stealth,Darkvision 60,"Common, Elvish",7.00
+672,Shadar-Kai Soul Monger,Medium,Humanoid (Elf),N,15,123,30,8,17,14,19,15,13,"DEX, WIS, CHA",Perception,Darkvision 60,"Common, Elvish",11.00
+673,Shadow,Medium,Undead,CE,12,16,40,6,14,13,6,10,8,,Stealth,Darkvision 60,,0.50
+674,Shadow Dragon Template,VARIES,Dragon,CE,18,TEMP,TEMP,23,10,21,14,11,19,TEMP,TEMP,TEMp,TEMp,13.00
+675,Shadow Mastiff,Medium,Monstrosity,NE,12,33,40,16,14,13,5,12,5,,"Perception, Stealth",Darkvision 60,,2.00
+676,Shadow Mastiff Alpha,Medium,Monstrosity,NE,12,48,40,16,14,13,6,12,5,,"Perception, Stealth",Darkvision 60,,2.00
+677,Shambling Mound,Large,Plant,U,15,136,"20, swim 20",18,8,16,5,10,5,,Stealth,Blindsight 60,,5.00
+678,Shield Guardian,Large,Construct,U,17,142,30,18,8,18,7,1,10,,,"Blindsight 10, darkvision 60",Any,7.00
+679,Siren,Medium,Fey,CG,14,38,"30, swim 30",10,18,12,13,14,16,,"Medicine, Nature, Stealth, Survival",Darkvision 60,"Common, Elvish, Sylvan",3.00
+680,Skeleton,Medium,Undead,LE,13,13,30,10,14,15,6,8,5,,,Darkvision 60,Any,0.25
+681,"Skeleton, Giant",Huge,Undead,NE,17,115,30,21,10,20,4,6,6,,,Darkvision 60,Giant,7.00
+682,"Skeleton, Minotaur",Large,Undead,LE,12,67,40,18,11,15,6,8,5,,,Darkvision 60,Abyssal,2.00
+683,"Skeleton, Warhorse",Large,Undead,LE,13,22,60,18,12,15,2,8,5,,,Darkvision 60,,0.50
+684,Skulk,Medium,Humanoid,CN,14,18,30,6,19,10,10,7,1,CON,Stealth,Darkvision 120,Common,0.50
+685,Skull Lord,Medium,Undead,LE,18,105,30,14,16,17,16,15,21,,"Athletics, History, Perception, Stealth","Legendary Resistance, Master of the Grave, Evasion, Normal Spellcasting",Any,15.00
+686,Slaad Tadpole,Tiny,Aberration,CN,12,10,30,7,15,10,3,5,3,,Stealth,Darkvision 60,Own,0.13
+687,"Slaad, Blue",Large,Aberration,CN,15,123,30,20,15,18,7,7,9,,Perception,Darkvision 60,"Own, telepathy 60",7.00
+688,"Slaad, Death",Medium,Aberration,CE,18,170,30,20,15,19,15,10,16,,"Arcana, Perception","Blindsight 60, darkvision 60","Own, telepathy 60",10.00
+689,"Slaad, Gray",Medium,Aberration,CN,18,127,30,17,17,16,13,8,14,,"Arcana, Perception","Blindsight 60, darkvision 60","Own, telepathy 60",9.00
+690,"Slaad, Green",Large,Aberration,CN,16,127,30,18,15,16,11,8,12,,"Arcana, Perception","Blindsight 30, darkvision 60","Own, telepathy 60",8.00
+691,"Slaad, Red",Large,Aberration,CN,14,93,30,16,12,16,6,6,7,,Perception,Darkvision 60,"Own, telepathy 60",5.00
+692,Slithering Tracker,Medium,Ooze,CE,14,32,"30, climb 30, swim 30",16,19,15,10,14,11,,Stealth,Blindsight 120,Any,3.00
+693,"Sorrowsworn, The Angry",Medium,Monstrosity,NE,18,255,30,17,10,19,8,13,6,,Perception,Darkvision 60,Common,13.00
+694,"Sorrowsworn, The Hungry",Medium,Monstrosity,NE,17,225,30,19,10,17,6,11,6,,,Darkvision 60,Common,11.00
+695,"Sorrowsworn, The Lonely",Medium,Monstrosity,NE,16,112,30,16,12,17,6,11,6,,,Darkvision 60,Common,9.00
+696,"Sorrowsworn, The Lost",Medium,Monstrosity,NE,15,78,30,17,12,15,6,7,5,,Athletics,Darkvision 60,Common,7.00
+697,"Sorrowsworn, The Wretched",Small,Monstrosity,NE,15,10,40,7,12,9,5,6,5,,,Darkvision 60,,0.25
+698,Spawn of Kyuss,Medium,Undead,CE,10,76,30,16,11,18,5,7,3,WIS,,Darkvision 60,Any,5.00
+699,Specter,Medium,Undead,CE,12,22,fly 50,1,14,11,10,10,11,,,Darkvision 60,Any,1.00
+700,"Sphinx, Andro",Large,Monstrosity,LN,17,199,"40, fly 60",22,10,20,16,18,23,"DEX, CON, INT, WIS","Arcana, Perception, Religion",Truesight 120,"Common, Own",17.00
+701,"Sphinx, Gyno",Large,Monstrosity,LN,17,136,"40, fly 60",18,15,16,18,18,18,,"Arcana, History, Perception, Religion",Truesight 120,"Common, Own",11.00
+702,Spore Servant Template,TEMP,Plant,U,TEMP,TEMP,TEMP,17,12,16,2,6,1,TEMP,TEMP,TEMP,TEMP,TEMP
+703,Sprite,Tiny,Fey,NG,15,2,"10, fly 40",3,18,10,14,13,11,,"Perception, Stealth",Normal,"Common, Elvish, Sylvan",0.25
+704,Star Spawn Grue,Small,Aberration,NE,11,17,30,6,13,10,9,11,6,,,Darkvision 60,Deep Speech,0.25
+705,Star Spawn Hulk,Large,Aberration,CE,16,136,30,20,8,21,7,12,9,"DEX, WIS",Perception,Darkvision 60,Deep Speech,10.00
+706,Star Spawn Larva Mage,Medium,Aberration,CE,16,168,30,17,12,23,18,12,16,"DEX, WIS, CHA",Perception,Darkvision 60,Deep Speech,16.00
+707,Star Spawn Mangler,Medium,Aberration,CE,14,71,"40, climb 40",8,18,12,11,12,7,"DEX, CON",Stealth,Darkvision 60,Deep Speech,5.00
+708,Star Spawn Seer,Medium,Aberration,NE,17,153,30,14,12,18,22,19,16,"DEX, INT, WIS, CHA",Perception,Darkvision 60,"Common, Deep Speech, Undercommon",13.00
+709,"Steeder, Female",Large,Monstrosity,U,14,30,"30, climb 30",15,16,14,2,10,3,,"Perception, Stealth",Darkvision 120,,1.00
+710,"Steeder, Male",Medium,Monstrosity,U,12,13,"30, climb 30",15,12,14,2,10,3,,"Stealth, Perception",Darkvision 120,,0.25
+711,Steel Predator,Large,Construct,LE,20,207,40,24,17,22,4,14,6,,"Perception, Stealth, Survival","Blindsight 30, darkvision 60","Modron, Any",16.00
+712,Stirge,Tiny,Beast,U,14,2,"10, fly 40",4,16,11,2,8,6,,,Darkvision 60,,0.13
+713,Stone Cursed,Medium,Construct,LE,17,19,10,16,5,14,5,8,7,,,Normal,Any,1.00
+714,Stone Juggernaut,Large,Construct,U,15,157,50,22,1,21,2,11,3,,,Blindsight 120,,12.00
+715,Strahd's Animated Armor,Medium,Construct,LE,21,112,30,17,13,16,9,10,9,,Perception,Blindsight 60,Common,6.00
+716,Su-Monster,Medium,Monstrosity,CE,12,27,"30, climb 30",14,15,12,9,13,9,,"Athletics, Perception",Normal,,1.00
+717,Succubus/Incubus,Medium,Fiend,NE,15,66,"30, fly 60",8,17,13,15,12,20,,"Deception, Insight, Perception, Persuasion, Stealth",Darkvision 60,"Abyssal, Common, Infernal, telepathy 60",4.00
+718,Sword Wraith Commander,Medium,Undead,LE,18,127,30,18,14,18,11,12,14,,Perception,Darkvision 60,Any,8.00
+719,Sword Wraith Warrior,Medium,Undead,LE,16,45,30,18,12,17,6,9,10,,,Darkvision 60,Any,3.00
+720,Tabaxi Hunter,Medium,Humanoid (Tabaxi),CG,14,40,"30, climb 20",10,17,11,13,14,15,,"Athletics, Perception, Stealth, Survival",Darkvision 60,"Common, Any",1.00
+721,Tabaxi Minstrel,Medium,Humanoid (Tabaxi),CG,12,22,"30, climb 20",10,15,11,14,12,16,,"Perception, Performance, Persuasion, Stealth",Darkvision 60,"COmmon, Any",0.25
+722,Tarrasque,Gargantuan,Monstrosity,U,25,676,40,30,11,30,3,11,11,"INT, WIS, CHA",,Blindsight 120,,30.00
+723,Tecuziztecatl,Large,Monstrosity,N,13,102,"30, climb 30",17,10,16,15,16,13,,"Deception, Stealth",Blindsight 30,"Olman, Primal",4.00
+724,Thayan Apprentice,Medium,Humanoid (Human),NOT GOOD,12,27,30,10,14,12,15,13,11,,Arcana,Normal,"Common, Thayan",2.00
+725,Thayan Warrior,Medium,Humanoid (Human),NOT GOOD,16,52,30,16,13,14,10,11,11,,Perception,Normal,"Common, Thayan",2.00
+726,Thorn Slinger,Large,Plant,U,11,32,10,13,12,12,1,10,1,,,Blindsight 60,,0.50
+727,Thorny,Medium,Plant,N,14,27,30,13,12,13,2,10,6,,"Perception, Stealth",Darkvision 60,Own,1.00
+728,Thri-Kreen,Medium,Humanoid,CN,15,33,40,12,15,13,8,12,7,,"Perception, Stealth, Survival",Darkvision 60,Own,1.00
+729,Tiamat,Gargantuan,Fiend,CE,25,615,"60, fly 120",30,10,30,26,26,28,"STR, DEX, WIS","Arcana, Perception, Religion","Darkvision 240, truesight 120","Common, Draconic, Infernal",30.00
+730,Tiny Servant,Tiny,Construct,U,15,10,"30, climb 30",4,16,10,2,10,1,,,Blindsight 60,,1.00
+731,Tlincalli,Large,Monstrosity,NE,15,85,40,16,13,16,8,12,8,,"Perception, Stealth, Survival",Darkvision 60,Own,5.00
+732,Topi,Small,Undead,CE,13,13,30,7,15,12,6,10,5,,,Darkvision 60,Alive,0.50
+733,Tortle,Medium,Humanoid (Tortle),LG,17,22,30,15,10,12,11,13,12,,"Athletics, Survival",Normal,"Aquan, Common",0.25
+734,Tortle Druid,Medium,Humanoid (Tortle),LN,17,33,30,14,10,12,11,15,12,,"Animal Handling, Nature, Survival",Normal,"Aquan, Common",2.00
+735,Trapper,Large,Monstrosity,U,13,85,"10, climb 10",17,10,17,2,13,4,,Stealth,"Blindsight 30, darkvision 60",,3.00
+736,Treant,Huge,Plant,CG,16,138,30,23,8,21,12,16,12,,,Normal,"Common, Druidic, Elvish, Sylvan",9.00
+737,Tressym,Tiny,Beast,CN,12,5,"40, climb 30, fly 40",3,15,10,11,12,12,,"Perception, Stealth",Darkvision 60,Common,0.00
+738,Tri-Flower Frond,Medium,Plant,U,10,11,5,1,10,12,1,10,1,,,Blindsight 30,,0.50
+739,Troglodyte,Medium,Humanoid,CE,11,13,30,14,10,14,6,10,6,,Stealth,Darkvision 60,Own,0.25
+740,Troglodyte Champion of Laogzed,Medium,Humanoid (Troglodyte),CE,14,59,30,18,12,18,8,12,12,,"Athletics, Intimidation, Stealth",Darkvision 60,Own,3.00
+741,Troll,Large,Giant,CE,15,84,30,18,13,20,7,9,7,,Perception,Darkvision 60,Giant,5.00
+742,"Troll, Dire",Huge,Giant,CE,15,172,40,22,15,21,9,11,5,"WIS, CHA",Perception,Darkvision 60,Giant,13.00
+743,"Troll, Rot",Large,Giant,CE,16,138,30,18,13,22,5,8,4,,Perception,Darkvision 60,Giant,9.00
+744,"Troll, Spirit",Large,Giant,CE,17,97,30,1,17,13,8,9,16,,Perception,Darkvision 60,Giant,11.00
+745,"Troll, Venom",Large,Giant,CE,15,94,30,18,13,20,7,9,7,,Perception,Darkvision 60,Giant,7.00
+746,Umber Hulk,Large,Monstrosity,CE,18,93,"30, burrow 20",20,13,16,9,10,10,,,Darkvision 120,Own,5.00
+747,Unicorn,Large,Celestial,LG,12,67,50,18,14,15,11,17,16,,,Darkvision 60,"Celestial, Elvish, Sylvan, telepathy 60",5.00
+748,Uthgardt Shaman,Medium,Humanoid (Human),NE,13,38,30,14,12,13,10,15,12,,"Medicine, Nature, Perception, Survival",Normal,"Bothii, COmmon",2.00
+749,Vampire,Medium,Undead,LE,16,144,30,18,18,18,17,15,18,"DEX, WIS, CHA","Perception, Stealth",Darkvision 120,Any,13.00
+750,Vampire Spawn,Medium,Undead,NE,15,82,30,16,16,16,11,10,12,"DEX, WIS","Perception, Stealth",Darkvision 60,Any,5.00
+751,Vampiric Mist,Medium,Undead,CE,13,30,fly 30,6,16,16,6,12,7,WIS,,Darkvision 60,,3.00
+752,Vargouille,Tiny,Fiend,CE,12,13,"5, fly 40",6,14,14,4,7,2,,,Darkvision 60,"Abyssal, Infernal, Any",1.00
+753,Vegepygmy,Small,Plant,N,13,9,30,7,14,13,6,11,7,,"Perception, Stealth",Darkvision 60,Own,0.25
+754,Vegepygmy Chief,Small,Plant,N,14,33,30,14,14,14,7,12,9,,"Perception, Stealth",Darkvision 60,Own,2.00
+755,Water Weird,Large,Elemental,N,13,58,swim 60,17,16,13,11,10,10,,,Blindsight 30,Aquan,3.00
+756,White Maw,Gargantuan,Ooze,CN,5,217,10,18,1,20,12,10,3,,,Blindsight 60,Telepathy 50,10.00
+757,Wight,Medium,Undead,NE,14,45,30,15,14,16,10,13,15,,"Perception, Stealth",Darkvision 60,Any,3.00
+758,Will-O'-Wisp,Tiny,Undead,CE,19,22,fly 50,1,28,10,13,14,11,,,Darkvision 120,Any,2.00
+759,Wood Woad,Medium,Plant,LN,18,75,"30, climb 30",18,12,16,10,13,8,,"Athletics, Perception, Stealth",Darkvision 60,Sylvan,5.00
+760,Wraith,Medium,Undead,NE,13,67,fly 60,6,16,16,12,14,15,,,Darkvision 60,Any,5.00
+761,Wyvern,Large,Dragon,U,13,110,"20, fly 80",19,1,16,5,12,6,,Perception,Darkvision 60,,6.00
+762,Xorn,Medium,Elemental,N,19,73,"20, burrow 20",17,10,22,11,10,11,,"Perception, Stealth","Darkvision 60, tremorsense 60",Terran,5.00
+763,Xvart,Small,Humanoid (Xvart),CE,13,7,30,8,14,10,8,7,7,,Stealth,Darkvision 30,Abyssal,0.13
+764,Xvart Speaker,Small,Humanoid (Xvart),CE,13,7,30,8,14,10,13,7,7,,Stealth,Darkvision 30,"Abyssal, Any",0.13
+765,Xvart Warlock of Raxivort,Small,Humanoid (Xvart),CE,12,22,30,8,14,12,8,11,12,,Stealth,Darkvision 30,Abyssal,1.00
+766,Yakfolk Priest,Large,Monstrosity,NE,12,52,30,16,11,15,14,18,14,,"Deception, Medicine, Survival",Normal,"Common, Yikaria",4.00
+767,Yakfolk Warrior,Large,Monstrosity,NE,11,60,30,18,11,15,14,15,14,,"Deception, Survival",Normal,"Common, Yikaria",3.00
+768,Yellow Musk Creeper,Medium,Plant,U,6,60,"5, climb 5",12,3,12,1,10,3,,,Blindsight 30,,2.00
+769,Yellow Musk Zombie,Medium,Undead,U,9,33,20,13,9,12,1,6,3,,,Blindsight 30,,0.25
+770,Yeth Hound,Large,Fey,NE,14,51,"40, fly 40",18,17,16,5,12,7,,,Darkvision 60,"Common, Elvish, Sylvan",4.00
+771,Yeti,Large,Monstrosity,CE,12,51,"40, climb 40",18,13,16,8,12,7,,"Perception, Stealth",Darkvision 60,Own,3.00
+772,"Yeti, Abominable",Huge,Monstrosity,CE,15,137,"40, 40 climb",24,10,22,9,13,9,,"Perception, Stealth",Darkvision 60,Own,9.00
+773,Yuan-Ti Abomination,Large,Monstrosity,NE,15,127,40,19,16,17,17,15,18,,"Perception, Stealth",Darkvision 60,"Abyssal, Common, Draconic",7.00
+774,Yuan-Ti Anathema,Huge,"Monstrosity
+Monstrosity (Yuan-Ti)",NE,16,189,"40, climb 30, swim 30",23,13,19,19,17,20,,"Perception, Stealth","Blindsight 30, darkvision 60","Abyssal, Common, Draconic",12.00
+775,Yuan-Ti Broodguard,Medium,Humanoid (Yuan-Ti),NE,14,45,30,15,14,14,6,11,4,"STR, DEX, WIS",Perception,Darkvision 60,"Abyssal, Common, Draconic",2.00
+776,Yuan-Ti Malison,Medium,Monstrosity,NE,12,66,30,16,14,13,14,12,16,,"Deception, Stealth",Darkvision 60,"Abyssal, Common, Draconic",3.00
+777,Yuan-Ti Mind Whisperer,Medium,"Monstrosity
+Monstrosity (Yuan-Ti)",NE,14,71,30,16,14,13,14,12,16,"WIS, CHA","Deception, Stealth",Darkvision 120,"Abyssal, Common, Draconic",4.00
+778,Yuan-Ti Nightmare Speaker,Medium,"Monstrosity
+Monstrosity (Yuan-Ti)",NE,14,71,30,16,14,13,14,12,16,"WIS, CHA","Deception, Stealth",Darkvision 120,"Abyssal, Common, Draconic",4.00
+779,Yuan-Ti Pit Master,Medium,"Monstrosity
+Monstrosity (Yuan-Ti)",NE,14,88,30,16,14,13,14,12,16,"WIS, CHA","Deception, Stealth",Darkvision 120,"Abyssal, Common, Draconic",5.00
+780,Yuan-Ti Pureblood,Medium,Monstrosity,NE,11,40,30,11,12,11,13,12,14,,"Deception, Perception, Stealth",Darkvision 60,"Abyssal, Common, Draconic",1.00
+781,"Yugoloth, Arcana",Medium,Fiend,NE,17,104,"30, fly 30",17,12,14,20,16,17,"DEX, INT, WIS, CHA","Arcana, Deception, Insight, Perception",Truesight 120,"All, telepathy 120",12.00
+782,"Yugoloth, Cano",Medium,Fiend (Yugoloth),NE,16,120,50,18,10,17,5,17,12,,"Investigation, Perception","Darkvision 60, truesight 120","Abyssal, Infernal, telepathy 60",8.00
+783,"Yugoloth, Dhergo",Medium,Fiend (Yugoloth),NE,15,119,30,17,10,19,7,10,9,STR,,"Blindsight 60, darkvision 60","Abyssal, Infernal, telepathy 60",7.00
+784,"Yugoloth, Hydro",Medium,Fiend (Yugoloth),NE,15,135,"20, swim 40",12,21,16,19,10,14,,"Insight, Perception","Blindsight 60, darkvision 60","Abyssal, Infernal, telepathy 60",9.00
+785,"Yugoloth, Merreno",Medium,Fiend (Yugoloth),NE,13,40,"30, swim 40",8,17,10,17,14,11,"DEX, INT","History, Nature, Perception, Survival","Blindsight 60, darkvision 60","Abyssal, Infernal, telepathy 60",3.00
+786,"Yugoloth, Mezzo",Medium,Fiend,NE,18,75,40,18,11,16,7,10,11,,Perception,"Blindsight 60, darkvision 60","Abyssal, Infernal, telepathy 60",5.00
+787,"Yugoloth, Nyca",Large,Fiend,NE,18,123,"40, fly 60",20,11,19,12,10,15,,"Intimidation, Perception, Stealth","Blindsight 60, darkvision 60","Abyssal, Infernal, telepathy 60",9.00
+788,"Yugoloth, Oino",Medium,Fiend (Yugoloth),NE,17,126,40,19,17,18,17,16,19,"CON, WIS","Deception, Intimidation, Perception","Blindsight 60, darkvision 60","Abyssal, Infernal, telepathy 60",12.00
+789,"Yugoloth, Ultro",Medium,Fiend,NE,19,153,"30, fly 60",16,16,18,18,15,19,,"Intimidation, Perception, Stealth",Truesight 120,"Abyssal, Infernal, telepathy 120",13.00
+790,"Yugoloth, Yagno",Large,Fiend (Yugoloth),NE,17,147,40,19,14,21,16,15,18,"DEX, INT, WIS, CHA","Deception, Insight, Perception, Persuasion","Blindsight 60, darkvision 60","Abyssal, Infernal telepathy 60",11.00
+791,Zombie,Medium,Undead,NE,8,22,20,13,6,16,3,6,5,WIS,,Darkvision 60,Any,0.25
+792,"Zombie, Ankylosaurus",Huge,Undead,U,14,68,20,19,9,15,2,6,3,,,Darkvision 60,,3.00
+793,"Zombie, Beholder",Large,Undead,NE,15,93,fly 20,10,8,16,3,8,5,WIS,,Darkvision 60,"Deep Speech, Undercommon",5.00
+794,"Zombie, Girallon",Large,Undead,CE,11,59,"30, climb 30",18,12,16,3,7,5,,,Darkvision 60,,3.00
+795,"Zombie, Greater",Medium,Undead,NE,15,97,30,18,10,17,4,6,6,WIS,,Darkvision 60,Any,5.00
+796,"Zombie, Ogre",Large,Undead,NE,8,93,30,19,6,18,3,6,5,WIS,,Darkvision 60,"Common, Giant",2.00
+797,"Zombie, Strahd",Medium,Undead,U,8,30,20,13,6,16,3,6,5,WIS,,Darkvision 60,Any,1.00
+798,"Zombie, Tyrannosaurus",Huge,Undead,U,11,136,40,25,6,19,1,3,5,,,Darkvision 60,,8.00
+799,Zorbo,Small,Monstrosity,U,10,27,"30, climb 30",13,11,13,3,12,7,,Athletics,Normal,,0.50
+800,"Zuggtmoy, Bridesmaid",Medium,Plant,CE,13,22,20,14,11,11,14,8,18,,,Darkvision 60,Abyssal,0.13
+801,"Zuggtmoy, Chamberlain",Large,Plant,CE,13,45,20,17,7,14,11,8,12,,,Darkvision 60,"Abyssal, Undercommon",2.00
